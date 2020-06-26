@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tiago Miarelli</title>
-    <link href="http://tiagomiarelli.com.br/feed.xml" rel="self" />
-    <link href="http://tiagomiarelli.com.br" />
+    <link href="http://tiagomiarelli.netlify.app/feed.xml" rel="self" />
+    <link href="http://tiagomiarelli.netlify.app" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
-    <id>http://tiagomiarelli.com.br</id>
+    <id>http://tiagomiarelli.netlify.app</id>
 
+    <entry>
+        <title>post de teste 2</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="http://tiagomiarelli.netlify.app/post-de-teste-2.html"/>
+        <id>http://tiagomiarelli.netlify.app/post-de-teste-2.html</id>
+
+        <updated>2020-06-26T16:13:53-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>O que é Marketing de Afiliados?</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html"/>
-        <id>http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html</id>
+        <link href="http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html"/>
+        <id>http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html</id>
             <category term="Afiliados"/>
 
-        <updated>2020-06-26T15:21:47-03:00</updated>
+        <updated>2020-06-26T16:13:53-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

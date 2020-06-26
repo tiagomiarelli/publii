@@ -2,16 +2,28 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Tiago Miarelli",
     "description": "",
-    "home_page_url": "http://tiagomiarelli.com.br",
-    "feed_url": "http://tiagomiarelli.com.br/feed.json",
+    "home_page_url": "http://tiagomiarelli.netlify.app",
+    "feed_url": "http://tiagomiarelli.netlify.app/feed.json",
     "user_comment": "",
     "author": {
         "name": "Tiago Miarelli"
     },
     "items": [
         {
-            "id": "http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html",
-            "url": "http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html",
+            "id": "http://tiagomiarelli.netlify.app/post-de-teste-2.html",
+            "url": "http://tiagomiarelli.netlify.app/post-de-teste-2.html",
+            "title": "post de teste 2",
+            "author": {
+                "name": "Tiago Miarelli"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-06-26T16:13:53-03:00",
+            "date_modified": "2020-06-26T16:13:53-03:00"
+        },
+        {
+            "id": "http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html",
+            "url": "http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html",
             "title": "O que é Marketing de Afiliados?",
             "author": {
                 "name": "Tiago Miarelli"
@@ -19,8 +31,8 @@
             "tags": [
                    "Afiliados"
             ],
-            "date_published": "2020-06-26T15:21:47-03:00",
-            "date_modified": "2020-06-26T15:21:47-03:00"
+            "date_published": "2020-06-26T16:13:53-03:00",
+            "date_modified": "2020-06-26T16:13:53-03:00"
         }
     ]
 }
