@@ -1,23 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tiago Miarelli</title>
-    <link href="http://tiagomiarelli.netlify.app/feed.xml" rel="self" />
-    <link href="http://tiagomiarelli.netlify.app" />
+    <link href="http://tiagomiarelli.com.br/feed.xml" rel="self" />
+    <link href="http://tiagomiarelli.com.br" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
-    <id>http://tiagomiarelli.netlify.app</id>
+    <id>http://tiagomiarelli.com.br</id>
 
+    <entry>
+        <title>Post teste 3</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="http://tiagomiarelli.com.br/post-teste-3.html"/>
+        <id>http://tiagomiarelli.com.br/post-teste-3.html</id>
+
+        <updated>2020-06-26T16:24:15-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>post de teste 2</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="http://tiagomiarelli.netlify.app/post-de-teste-2.html"/>
-        <id>http://tiagomiarelli.netlify.app/post-de-teste-2.html</id>
+        <link href="http://tiagomiarelli.com.br/post-de-teste-2.html"/>
+        <id>http://tiagomiarelli.com.br/post-de-teste-2.html</id>
 
-        <updated>2020-06-26T16:13:53-03:00</updated>
+        <updated>2020-06-26T16:24:15-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -26,11 +46,11 @@
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html"/>
-        <id>http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html</id>
+        <link href="http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html"/>
+        <id>http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html</id>
             <category term="Afiliados"/>
 
-        <updated>2020-06-26T16:13:53-03:00</updated>
+        <updated>2020-06-26T16:24:15-03:00</updated>
             <summary></summary>
         <content></content>
     </entry>

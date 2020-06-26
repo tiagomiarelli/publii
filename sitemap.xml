@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://tiagomiarelli.netlify.app/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://tiagomiarelli.com.br/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>http://tiagomiarelli.netlify.app/</loc>
+<loc>http://tiagomiarelli.com.br/</loc>
 </url>
 <url>
-<loc>http://tiagomiarelli.netlify.app/o-que-e-marketing-de-afiliados.html</loc>
+<loc>http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html</loc>
 <lastmod>2020-06-26T15:25:17-03:00</lastmod>
 </url>
 <url>
-<loc>http://tiagomiarelli.netlify.app/post-de-teste-2.html</loc>
+<loc>http://tiagomiarelli.com.br/post-de-teste-2.html</loc>
 <lastmod>2020-06-26T15:53:47-03:00</lastmod>
+</url>
+<url>
+<loc>http://tiagomiarelli.com.br/post-teste-3.html</loc>
+<lastmod>2020-06-26T16:23:53-03:00</lastmod>
 </url>
 </urlset>
