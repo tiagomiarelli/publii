@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tiago Miarelli</title>
+    <link href="https://github.com/tiagomiarelli/publii/feed.xml" rel="self" />
+    <link href="https://github.com/tiagomiarelli/publii" />
+    <updated>1969-12-31T21:00:00-03:00</updated>
+    <author>
+        <name>Tiago Miarelli</name>
+    </author>
+    <id>https://github.com/tiagomiarelli/publii</id>
+
+    <entry>
+        <title>post de teste</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://github.com/tiagomiarelli/publii/post-de-teste.html"/>
+        <id>https://github.com/tiagomiarelli/publii/post-de-teste.html</id>
+
+        <updated>2020-06-25T22:14:26-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
