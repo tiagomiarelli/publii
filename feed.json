@@ -9,5 +9,18 @@
         "name": "Tiago Miarelli"
     },
     "items": [
+        {
+            "id": "http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html",
+            "url": "http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html",
+            "title": "O que é Marketing de Afiliados?",
+            "author": {
+                "name": "Tiago Miarelli"
+            },
+            "tags": [
+                   "Afiliados"
+            ],
+            "date_published": "2020-06-26T15:21:47-03:00",
+            "date_modified": "2020-06-26T15:21:47-03:00"
+        }
     ]
 }
