@@ -9,44 +9,5 @@
         "name": "Tiago Miarelli"
     },
     "items": [
-        {
-            "id": "http://tiagomiarelli.com.br/post-teste-3.html",
-            "url": "http://tiagomiarelli.com.br/post-teste-3.html",
-            "title": "Post teste 3",
-            "summary": "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não&hellip;",
-            "content_html": "<p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>",
-            "author": {
-                "name": "Tiago Miarelli"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-26T16:54:43-03:00",
-            "date_modified": "2020-06-26T16:54:43-03:00"
-        },
-        {
-            "id": "http://tiagomiarelli.com.br/post-de-teste-2.html",
-            "url": "http://tiagomiarelli.com.br/post-de-teste-2.html",
-            "title": "post de teste 2",
-            "author": {
-                "name": "Tiago Miarelli"
-            },
-            "tags": [
-            ],
-            "date_published": "2020-06-26T16:54:43-03:00",
-            "date_modified": "2020-06-26T16:54:43-03:00"
-        },
-        {
-            "id": "http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html",
-            "url": "http://tiagomiarelli.com.br/o-que-e-marketing-de-afiliados.html",
-            "title": "O que é Marketing de Afiliados?",
-            "author": {
-                "name": "Tiago Miarelli"
-            },
-            "tags": [
-                   "Afiliados"
-            ],
-            "date_published": "2020-06-26T16:54:43-03:00",
-            "date_modified": "2020-06-26T16:54:43-03:00"
-        }
     ]
 }
