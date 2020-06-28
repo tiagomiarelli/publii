@@ -1,12 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Tiago Miarelli</title>
-    <link href="http://tiagomiarelli.com.br/feed.xml" rel="self" />
-    <link href="http://tiagomiarelli.com.br" />
+    <link href="https://tiagomiarelli.com.br/feed.xml" rel="self" />
+    <link href="https://tiagomiarelli.com.br" />
     <updated>1969-12-31T21:00:00-03:00</updated>
     <author>
         <name>Tiago Miarelli</name>
     </author>
-    <id>http://tiagomiarelli.com.br</id>
+    <id>https://tiagomiarelli.com.br</id>
 
+    <entry>
+        <title>post teste 4</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/post-teste-4/"/>
+        <id>https://tiagomiarelli.com.br/post-teste-4/</id>
+
+        <updated>2020-06-28T01:17:49-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>post teste 3</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/post-teste-3/"/>
+        <id>https://tiagomiarelli.com.br/post-teste-3/</id>
+
+        <updated>2020-06-28T01:17:49-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post teste 2</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/post-teste-2/"/>
+        <id>https://tiagomiarelli.com.br/post-teste-2/</id>
+
+        <updated>2020-06-28T01:17:49-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>post  teste 1</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/post-teste-1/"/>
+        <id>https://tiagomiarelli.com.br/post-teste-1/</id>
+
+        <updated>2020-06-28T01:17:49-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
