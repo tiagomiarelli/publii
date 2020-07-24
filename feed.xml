@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Tiago Miarelli</title>
+    <title>Blog Tiago Miarelli</title>
     <link href="https://tiagomiarelli.com.br/feed.xml" rel="self" />
     <link href="https://tiagomiarelli.com.br" />
     <updated>1969-12-31T21:00:00-03:00</updated>
@@ -10,76 +10,1220 @@
     <id>https://tiagomiarelli.com.br</id>
 
     <entry>
-        <title>post teste 4</title>
+        <title>O que é e como funciona uma rede de Afiliados?</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://tiagomiarelli.com.br/post-teste-4/"/>
-        <id>https://tiagomiarelli.com.br/post-teste-4/</id>
+        <link href="https://tiagomiarelli.com.br/o-que-e-como-funciona-rede-de-afiliados/"/>
+        <id>https://tiagomiarelli.com.br/o-que-e-como-funciona-rede-de-afiliados/</id>
+            <category term="Redes de Afiliados"/>
 
-        <updated>2020-06-28T01:17:49-03:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>post teste 3</title>
-        <author>
-            <name>Tiago Miarelli</name>
-        </author>
-        <link href="https://tiagomiarelli.com.br/post-teste-3/"/>
-        <id>https://tiagomiarelli.com.br/post-teste-3/</id>
-
-        <updated>2020-06-28T01:17:49-03:00</updated>
+        <updated>2020-07-24T01:58:26-03:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não&hellip;
+                        <img src="https://tiagomiarelli.com.br/media/posts/134/COMO-FUNCIONA-UMA-REDE-DE-AFILIADOS.webp" alt="REDES DE AFILIADOS" />
+                    O que é uma rede de afiliados?Uma rede de afiliados atua como intermediária entre afiliados e programas de afiliados de anunciantes. Ela&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+                    <img src="https://tiagomiarelli.com.br/media/posts/134/COMO-FUNCIONA-UMA-REDE-DE-AFILIADOS.webp" alt="REDES DE AFILIADOS" />
+                <div class="post__toc">
+<h3>Resumo</h3>
+<ul>
+<li><a href="#mcetoc_1edva5a8j10b">O que é uma rede de afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10c">Vantagens de se trabalhar uma rede de afiliados</a></li>
+<li><a href="#mcetoc_1edva5a8j10d">O que é um programa de Afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10e">Como funciona uma rede de afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10f">O que é uma subrede de afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10g">Como funciona o sistema de uma rede de afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10h">Como funciona o sistema de pagamentos de uma rede de afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10i">Existe fraudes em redes de afiliados?</a></li>
+<li><a href="#mcetoc_1edva5a8j10j">Como uma rede de afiliados combate as fraudes de afiliados?</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1edva5a8j10b"><strong>O que é uma rede de afiliados?</strong></h2>
+<p><strong>Uma rede de afiliados atua como intermediária entre afiliados e programas de afiliados de anunciantes. Ela permite que os afiliados encontrem e participem mais facilmente de programas afiliados adequados ao seu site, nicho e/ou público</strong></p>
+<p>Em outras palavras, a rede de afiliados é o intermediário entre o comerciante e o comerciante da filial.</p>
+<p>Do ponto de vista do anunciante, os serviços e benefícios de uma rede de afiliados podem incluir:</p>
+<ul>
+<li>Tecnologia de rastreamento de vendas</li>
+<li>Relatórios diversos</li>
+<li>Processamento de pagamentos aos afiliados</li>
+<li>Acesso a uma grande base de afiliados de diversos nichos</li>
+</ul>
+<h2 id="mcetoc_1edva5a8j10c">Vantagens de se trabalhar uma rede de afiliados</h2>
+<p>A maior vantagem de se trabalhar com uma rede de afiliados é o fato de ter acesso a centenas de programas de afiliados de marcas reconhecidas no mercado e poder agregar todos os recebimentos de comissões em uma só plataforma, entre as maiores vantagens, podemos citar também:</p>
+<ul>
+<li>A simplificação do processo de registro de um ou mais programas afiliados</li>
+<li>Ferramentas de relatórios</li>
+<li>Acesso a APIs de produtos e cupons</li>
+<li>Agregação de pagamentos de vários anunciantes em uma só plataforma</li>
+</ul>
+<p>Como intermediários, as redes de marketing de afiliados fornecem um ambiente favorável para anunciantes e afiliados e criam uma situação em que todos saem ganhando para todas as partes envolvidas. é um círculo virtuoso aonde todos saem ganhando</p>
+<ul>
+<li>O Anunciante vende mais</li>
+<li>O afiliado que ajuda o anunciante a vender, ganha uma comissão</li>
+<li>E a rede de afiliados entrega a campanha do cliente</li>
+</ul>
+<p>Logicamente nem todos os afiliados são aceitos se não cumprirem alguns requisitos que tantos anunciantes quanto redes de afiliados tem para aprovação no programa de afiliados</p>
+<h2>Vantagens das Redes de Afiliados para blogueiros</h2>
+<ul>
+<li>Possuem uma grande variedade de programas de afiliados com diferentes produtos para promover, o que permite que eles escolham produtos relacionados de acordo com o conteúdo do seu site e ao seu nicho de atuação</li>
+<li>Possibilidade de comparar de forma simples as comissões entre programas de afiliados</li>
+</ul>
+<h2>Vantagens das Redes de Afiliados para as empresas</h2>
+<ul>
+<li>Possibilidade de alcançar milhares de novos potenciais afiliados que irão promover seus produtos gratuitamente, já que o pagamento da comissão só ocorre de fato quando uma venda é realizada (modelo CPA)</li>
+<li>Excelente método para expandir os negócios, reconhecimento de marca no mercado, SEO, tráfego orgânico, etc</li>
+<li>Uma rede de afiliado detém toda tecnologia, equipe e experiência em gestão de programas de afiliados. logo, o investimento é bem menor se comparado ao fato do próprio anunciante montar seu programa de afiliados</li>
+</ul>
+<h2 id="mcetoc_1edva5a8j10d">O que é um programa de Afiliados?</h2>
+<p>um programa de afiliados é um canal de mídia no marketing de performance no qual as empresas pagam os afiliados uma determinada comissão pelas ações realizadas. essas ações podem ser uma venda (CPA), um lead(CPL) ou até mesmo um clique(CPC)</p>
+<h2 id="mcetoc_1edva5a8j10e">Como funciona uma rede de afiliados?</h2>
+<p>basicamente funciona da seguinte forma:</p>
+<p>Um anunciante deseja vender seus produtos ou serviços utilizando o marketing de afiliados como canal de mídia, para isto ele contrata uma rede de afiliados que vai gerenciar seu programa de afiliados.</p>
+<p>Digamos a rede de afiliados e o anunciante chegam a um acordo de que o anunciante irá pagar 10% de comissão para cada venda que esta rede de afiliado trouxer</p>
+<p>em seguida, essa rede de afiliados decide pagar 7% aos seus afiliados que trouxerem vendas para este anunciante. </p>
+<p>Logo, o afiliado que divulgou o link ganha 7% de comissão e o restante de 3% é o lucro da rede</p>
+<p>em alguns casos, as redes de afiliados pagam uma comissão maior para alguns afiliados que geralmente são aqueles que mais vendem ou usam isso como forma de incentivo entre os afiliados</p>
+<h2 id="mcetoc_1edva5a8j10f">O que é uma subrede de afiliados?</h2>
+<p>uma subrede de afiliados é uma empresa que administra tanto programas de afiliados de seus próprios anunciantes, ou seja, seus clientes, quanto pode ser também afiliada de várias redes de afiliados.</p>
+<p>O que difere uma subrede de afiliados de um publisher(afiliado) comum é o fato de uma subrede ter seus próprios afiliados independente de qual outra rede de afiliados ela trabalhe em parceria, é uma espécie de afiliado com seus próprios afiliados. no artigo sobre <strong><a href="#non-existing-post-with-id-110">o que é uma subrede de afiliados</a></strong>, nós explicamos mais sobre isso, recomendo você ler</p>
+<h2 id="mcetoc_1edva5a8j10g">Como funciona o sistema de uma rede de afiliados?</h2>
+<p>Todo funcionamento de uma rede de afiliados é baseado em links</p>
+<p>Cada anunciante recebe um ID único e cada afiliado também recebe um ID único</p>
+<p>todas as vezes que um usuário clica no link de algum produto por exemplo, automaticamente é implantado um cookie no navegador deste usuário</p>
+<p>este cookie contém informações que são passadas para o sistema da rede de afiliados, dentro deste cookie, contém algumas informações como por exemplo:</p>
+<ul>
+<li>quem é o anunciante</li>
+<li>quem é o afiliado</li>
+<li>qual é o produto</li>
+<li>valor do produto</li>
+<li>forma de pagamento do produto</li>
+</ul>
+<p>e mais uma série de dados aonde tanto a rede de afiliados quanto o anunciante conseguem saber quanto foi a venda e qual afiliado fez e por qual valor foi feito essa venda</p>
+<p>Além disso, cabe saber que cada cookie tem um prazo de validade, que geralmente é de 30, 60 ou até 90 dias</p>
+<p>quanto ao fato de saber se a comissão será recebida ou não pelo afiliado, depende muito do modelo de atribuição: se é último clique, primeiro clique ou modelo linear</p>
+<p>nós recomendamos que sempre que for divulgar algum produto de algum anunciante, sempre verifique as fontes de tráfego proibido, a validade do cookie e o modelo de atribuição do anunciante, tudo isso pode ser encontrado na descrição do programa</p>
+<p>além disso tem outra dica: sempre medir o EPC da campanha e verificar o ticket médio</p>
+<p>mas isso veremos em outros artigos.</p>
+<h2 id="mcetoc_1edva5a8j10h">Como funciona o sistema de pagamentos de uma rede de afiliados?</h2>
+<p>Uma vez que a rede de afiliados tenha contabilizado a venda, esse montante de vendas realizadas passa por validação por parte do anunciante, </p>
+<p>ou seja, o anunciante vai dizer quais vendas de fato foram efetivadas ou não.</p>
+<p>por exemplo: digamos que um usuário gera um boleto para determinado produto, porém ele desiste da compra e o boleto logicamente irá expirar</p>
+<p>até que isso aconteça, na plataforma da rede de afiliados, tanto o afiliado quanto a rede, irão visualizar que foi feito uma venda, geralmente aparece como "venda pendente"</p>
+<p>mas só após a validação do anunciante que vai confirmar se foi feito ou não essa venda, que a rede de afiliado irá atribuir a comissão ao afiliado que trouxe a venda</p>
+<p>geralmente o processo de validação começa nos primeiros dias do mês, uma vez que o anunciante valida a vendas, a rede de afiliados emite uma nota fiscal contra o anunciante.</p>
+<p>logo após este anunciante pagar a nota fiscal, ai então a rede de afiliados libera o pagamento para o afiliado</p>
+<p>por isso é tão demorado os processos de pagamento dentro das redes de afiliados de performance</p>
+<h2 id="mcetoc_1edva5a8j10i">Existe fraudes em redes de afiliados?</h2>
+<p>Sim, algumas fraudes comuns são:</p>
+<p>- Anunciantes que invalidam vendas realizadas pela rede de afiliadosa fim de pagar  menos comissões para a rede de afiliados</p>
+<p>- Redes de afiliados que invalidam  uma porcentagem das vendas realizadas pelos afiliados a fim de ter uma margem maior de lucro</p>
+<p>- Redes de afiliados que invalidam comissões de alguns grandes afiliados com muitas vendas para também ter uma margem maior</p>
+<p>-Redes de afiliados que expiram os links afiliados e redirecionam para seus sites próprios, geralmente agregadores de ofertas</p>
+<h2 id="mcetoc_1edva5a8j10j">Como uma rede de afiliados combate as fraudes de afiliados?</h2>
+<p>A fraude mais comum no mercado de afiliados é o <strong>cookie dropping</strong> também conhecido como <strong>cookie stuffing</strong></p>
+<p>o cookie stuffing é uma técnica de marketing de afiliados em que, após uma visita a um site, um usuário visitante recebe um cookie no seu navegador mesmo sem ter clicado em nenhum link afiliado</p>
+<p>as redes de afiliados detém várias tecnologias que monitoram os afiliados e se detectado alguma infração, tanto a rede de afiliados quanto o anunciante podem banir você para sempre do programa de afiliados</p>
+<p>acho que até aqui você conseguiu saber um pouco mais sobre como funciona uma rede de afiliados</p>
+<p>deixe seu comentário se tiver alguma dúvida</p>
+<p> </p>
+<p> </p>
+<p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "O que é uma rede de afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Uma rede de afiliados atua como intermediária entre afiliados e programas de afiliados de anunciantes. Ela permite que os afiliados encontrem e participem mais facilmente de programas afiliados adequados ao seu site, nicho e/ou público"
+    }
+  },{
+    "@type": "Question",
+    "name": "O que é um programa de Afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "um programa de afiliados é um canal de mídia no marketing de performance no qual as empresas pagam os afiliados uma determinada comissão pelas ações realizadas. essas ações podem ser uma venda (CPA), um lead(CPL) ou até mesmo um clique(CPC)"
+    }
+  },{
+    "@type": "Question",
+    "name": "O que é uma subrede de afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "uma subrede de afiliados é uma empresa que administra tanto programas de afiliados de seus próprios anunciantes, ou seja, seus clientes, quanto pode ser também afiliada de várias redes de afiliados.
+
+O que difere uma subrede de afiliados de um publisher(afiliado) comum é o fato de uma subrede ter seus próprios afiliados independente de qual outra rede de afiliados ela trabalhe em parceria, é uma espécie de afiliado com seus próprios afiliados. no artigo sobre o que é uma subrede de afiliados, nós explicamos mais sobre isso, recomendo você ler"
+    }
+  }]
+}
+</script>
+</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>post teste 2</title>
+        <title>O que é Marketing de Referência ?</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://tiagomiarelli.com.br/post-teste-2/"/>
-        <id>https://tiagomiarelli.com.br/post-teste-2/</id>
+        <link href="https://tiagomiarelli.com.br/o-que-e-marketing-de-referencia/"/>
+        <id>https://tiagomiarelli.com.br/o-que-e-marketing-de-referencia/</id>
+            <category term="Afiliados de performance"/>
 
-        <updated>2020-06-28T01:17:49-03:00</updated>
+        <updated>2020-07-24T01:58:26-03:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não&hellip;
+                        <img src="https://tiagomiarelli.com.br/media/posts/135/o-que-e-marketing-de-referencia.webp" alt="o que é marketing de referencia" />
+                    Qual a recomendação para Afiliados que querem trabalhar com marketing de referência?Sempre verifique a tabela de comissão para saber qual&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+                    <img src="https://tiagomiarelli.com.br/media/posts/135/o-que-e-marketing-de-referencia.webp" alt="o que é marketing de referencia" />
+                <div class="post__toc">
+<h3>Resumo</h3>
+<ul>
+<li><a href="#mcetoc_1eds5ea96je">O que é marketing de referência?</a></li>
+<li><a href="#mcetoc_1eds5ea96jf">Qual é a diferença entre marketing de referência e marketing de afiliados?</a></li>
+<li><a href="#mcetoc_1eds6gnvprr">Exemplos de programas de referência vs programas de afiliados</a>
+<ul>
+<li><a href="#mcetoc_1eds6gnvqrs">Dropbox [Programa de referência]</a></li>
+<li><a href="#mcetoc_1eds6gnvqrt">Uber [Programa de referência]</a></li>
+<li><a href="#mcetoc_1eds6gnvqru">Amazon [Programa de Afiliados]</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1eds7qh48so">Qual a recomendação para Afiliados que querem trabalhar com marketing de referência?</a></li>
+<li><a href="#mcetoc_1eds7se6osr">Curso Grátis de Marketing de Referência para Afiliados</a></li>
+</ul>
+</div>
+<h2 id="mcetoc_1eds5ea96je">O que é marketing de referência?</h2>
+<p><strong>O <em>Marketing de Referência</em> é uma estratégia baseada na aquisIação de novos clientes por meio da indicação dos seus atuais cliente, geralmente estas indicações geralmente são boca a boca espontaneamente.  As empresas geralmente recompensam os clientes que captam novos clientes através do pagamento de comissões ou alguma forma de bonificação</strong></p>
+<p>O marketing boca-a-boca  ocorre quando outras pessoas falam sobre um negócio ou produto, também é considerado uma forma de marketing de referência. O boca a boca é o princípio por trás de coisas que “se tornam virais” na internet </p>
+<p>O marketing de referência produz o mesmo efeito, mas é iniciado e dirigido por uma empresa. Geralmente, existe alguma forma de incentivo ou recompensa oferecida aos clientes para indicar outras pessoas.</p>
+<p>O que é uma estratégia de referência?</p>
+<p>. O marketing de referência pode assumir várias formas, mas no fundo, é uma maneira de conseguir que seus maiores fãs ajudem a espalhar a palavra sobre sua marca</p>
+<p>mas vamos olhar o marketing de referência do ponto de vista do afiliado, que é o objetivo do nosso blog, ok?</p>
+<p>no Brasil não é muito comum, mas em empresas americanas e européias é muito comum que uma empresa, geralmente ferramentas de marketing, tenham programas de referência e/ou programas de afiliados</p>
+<p>repare na imagem abaixo no site na semrush, todos os sites estrangeiros e alguns brasileiros tem isso</p>
+<p>ou é um programa de afiliados ou é um programa de referência e diferente do que falamos acima sobre marketing de referência, você não precisa ser necessariamente cliente/usuário da ferramenta ou produto</p>
+<p>basta que você divulgue seu link afiliado que geralmente é feito através de reviews de ferramentas de marketing, muito comum no Estados Unidos </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/135/programa-de-afiliados-semrush2.webp" alt="" width="750" height="400"></figure>
+<p>Repare que o semrush paga até 40% de comissão recorrente conforme o novo usuário mantiver a assinatura do semrush, aqui você acessar o <a href="https://www.berush.com/pt/" target="_blank" rel="nofollow noopener noreferrer">programa de afiliados da SemRush</a></p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/135/programa-de-afiliados-semrush.webp" alt="" width="750" height="400"></figure>
+<p>além do marketing de referência ser muito utilizado pelas ferramentas de marketing, outro mercado também que usa muito o marketing de referência são os aplicativos como ifood, rappi, uber, 99 táxi, etc</p>
+<p>lembrando que o marketing de referência não é a mesma coisa que o marketing de afiliados, conforme falamos no artigo <strong><a href="https://tiagomiarelli.com.br/afiliados-de-performance-no-brasil/">Afiliados de performance no Brasil</a></strong></p>
+<h2 id="mcetoc_1eds5ea96jf">Qual é a diferença entre marketing de referência e marketing de afiliados?</h2>
+<p>O marketing de afiliados tem uma estrutura semelhante ao marketing de referência, pois ambos usam incentivos para gerar novas receitas para os clientes. O que difere um do outro são as estratégias usadas</p>
+<p>Um programa de referência <strong> </strong>oferece a clientes e usuários atuais incentivos sempre que um amigo que ele indicar se inscrever ou adquirir o mesmo produto ou serviço. <strong>O principal participante de um programa de referência é um cliente.</strong></p>
+<p>As recompensas costumam ser um desconto único, cartão-presente ou um upgrade de serviço. Uma atualização do serviço que pode ser algo como mais espaço de arquivo ou acesso a uma sala VIP, et</p>
+<p>Por outro lado, um programa de afiliados <strong> </strong>recompensa os profissionais de marketing de afiliados como por exemplo blogueiros, influenciadores, podcasters, enfim</p>
+<p>Uma grande diferença do marketing de afiliados em relação a um programa de referência é que o afiliado de um programa de afiliados não precisa ser um cliente mas possui relacionamentos ou um público-alvo relacionado ao cliente-alvo do programa de referência</p>
+<h2 id="mcetoc_1eds6gnvprr">Exemplos de programas de referência vs programas de afiliados</h2>
+<p> </p>
+<h3 id="mcetoc_1eds6gnvqrs">Dropbox [Programa de referência]</h3>
+<p>Um exemplo perfeito disso é o Dropbox, que valeu a pena para os usuários consultarem. Eles oferecem espaço livre adicional para cada indicação bem-sucedida</p>
+<h3 id="mcetoc_1eds6gnvqrt">Uber [Programa de referência]</h3>
+<p>Outra marca que domina a arte da referência é a Uber . Cada usuário recebe seu próprio link de referência e a cada novo cliente que você indica para a Uber, você ganha uma viagem grátis</p>
+<h3 id="mcetoc_1eds6gnvqru">Amazon [Programa de Afiliados]</h3>
+<p>Quando se trata de marketing afiliado, a Amazon provavelmente vem à mente. Você deve ter notado que muitos blogueiros recomendam produtos em seus artigos. Se você olhar mais de perto, verá que essas recomendações tem links que levam à Amazon.</p>
+<p>Para resumir, a Amazon rastreia de onde vêm essas vendas. Quando eles veem as vendas provenientes de uma página específica de blogs, eles pagam uma comissão para esse blogueiro.</p>
+<div class="su-row">
+<div class="su-column su-column-size-1-2">
+<div class="su-column-inner su-u-clearfix su-u-trim"> </div>
+</div>
+</div>
+<h2 id="mcetoc_1eds7qh48so">Qual a recomendação para Afiliados que querem trabalhar com marketing de referência?</h2>
+<ul>
+<li>Sempre verifique a tabela de comissão para saber qual o valor mínimo para saque</li>
+<li>Confira se os pagamentos serão em dinheiro, créditos ou alguma outra forma de bonificação.</li>
+<li>Cuidado ao indicar produtos, serviços e empresas das quais nunca ouviu falar, desconfie ou que quase ninguém conhece, geralmente são startups</li>
+<li>Verifique se existem prazos pra utilização dos créditos</li>
+<li>Sempre leia as regras e condições gerais para não ter vendas e indicações anuladas</li>
+</ul>
+<p> </p>
+<p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "O que é Marketing de Referência ?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O Marketing de Referência é uma estratégia baseada na aquisIação de novos clientes por meio da indicação dos seus atuais cliente, geralmente estas indicações geralmente são boca a boca espontaneamente.  As empresas geralmente recompensam os clientes que captam novos clientes através do pagamento de comissões ou alguma forma de bonificação"
+    }
+  },{
+    "@type": "Question",
+    "name": "Qual é a diferença entre marketing de referência e marketing de afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O marketing de afiliados tem uma estrutura semelhante ao marketing de referência, pois ambos usam incentivos para gerar novas receitas para os clientes. O que difere um do outro são as estratégias usadas
+
+Um programa de referência  oferece a clientes e usuários atuais incentivos sempre que um amigo que ele indicar se inscrever ou adquirir o mesmo produto ou serviço. O principal participante de um programa de referência é um cliente."
+    }
+  },{
+    "@type": "Question",
+    "name": "Qual a recomendação para Afiliados que querem trabalhar com marketing de referência?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Sempre verifique a tabela de comissão para saber qual o valor mínimo para saque
+Confira se os pagamentos serão em dinheiro, créditos ou alguma outra forma de bonificação.
+Cuidado ao indicar produtos, serviços e empresas das quais nunca ouviu falar, desconfie ou que quase ninguém conhece, geralmente são startups
+Verifique se existem prazos pra utilização dos créditos
+Sempre leia as regras e condições gerais para não ter vendas e indicações anuladas"
+    }
+  }]
+}
+</script>
+</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>post  teste 1</title>
+        <title>Maiores Marketplaces no Brasil para Afiliados</title>
         <author>
             <name>Tiago Miarelli</name>
         </author>
-        <link href="https://tiagomiarelli.com.br/post-teste-1/"/>
-        <id>https://tiagomiarelli.com.br/post-teste-1/</id>
+        <link href="https://tiagomiarelli.com.br/marketplaces-no-brasil-afiliados/"/>
+        <id>https://tiagomiarelli.com.br/marketplaces-no-brasil-afiliados/</id>
+            <category term="News"/>
 
-        <updated>2020-06-28T01:17:49-03:00</updated>
+        <updated>2020-07-24T01:58:26-03:00</updated>
             <summary>
                 <![CDATA[
-                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu&hellip;
+                        <img src="https://tiagomiarelli.com.br/media/posts/122/marketplace-para-afiliados.webp" alt="Marketplaces no Brasil" />
+                     Um marketplace é uma plataforma, mediada por uma empresa, em que vários fornecedores (ecommerces) se inscrevem e vendem seus&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><strong>Lorem Ipsum</strong> é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker</p>
+                    <img src="https://tiagomiarelli.com.br/media/posts/122/marketplace-para-afiliados.webp" alt="Marketplaces no Brasil" />
+                <p> </p>
+<div class="post__toc">
+<h3>Resumo</h3>
+<ul>
+<li>
+<ul>
+<li><a href="#mcetoc_1edret0s047">Amazon </a></li>
+<li><a href="#mcetoc_1edret0s048">B2W (3 sites)</a></li>
+<li><a href="#mcetoc_1edret0s049">Magazine Luiza (3 sites)</a></li>
+<li><a href="#mcetoc_1edret0s04a">Via Varejo (4 sites)</a></li>
+<li><a href="#mcetoc_1edret0s04b">GFG (3 sites) </a></li>
+<li><a href="#mcetoc_1edret0s04c">Carrefour</a></li>
+<li><a href="#mcetoc_1edret0s04d">Cissa Magazine</a></li>
+<li><a href="#mcetoc_1edret0s04e">Mobly </a></li>
+<li><a href="#mcetoc_1edret0s04f">Centauro</a></li>
+<li><a href="#mcetoc_1edret0s04g">ShopFácil</a></li>
+<li><a href="#mcetoc_1edret0s04h">MadeiraMadeira</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1edret0s04i">Como ser afiliado em vários marketplaces de uma vez só?</a></li>
+<li><a href="#mcetoc_1edsf81evu4">Vantagens para os Afiliados que trabalham com os Marketplaces</a></li>
+</ul>
+</div>
+<h2>O que é um Marketplace?</h2>
+<p>Um <strong>marketplace<sup id="cite_ref-1" class="reference"></sup></strong> é uma plataforma, mediada por uma empresa, em que vários fornecedores (ecommerces) se inscrevem e vendem seus produtos dentro desta plataforma. Funciona como se fosse um shopping virtual</p>
+<p><strong>Confira logo abaixo a Lista dos maiores marketplaces do Brasil que que trabalham com afiliados de performance</strong></p>
+<h3 id="mcetoc_1edret0s047"><strong>Amazon</strong><strong> </strong></h3>
+<p>Fundada por Jeff Bezos, a Amazon é um dos principais grupos de e-commerce do mundo, com 300 milhões de usuários e US$ 72,4 bilhões de receita gerada no último trimestre de 2019.</p>
+<p>Por enquanto a operação de marketplaces no Brasil está restrita ao comércio de livros, mas já há sinais de que haverá abertura para mais categorias.</p>
+<h3 id="mcetoc_1edret0s048"><strong>B2W (3 sites)</strong></h3>
+<p>O grupo B2W, por sua vez, é formado por três sites de venda que estão entre os mais acessados do Brasil:</p>
+<ul>
+<li>Americanas.com</li>
+<li>Shoptime</li>
+<li>Submarino</li>
+</ul>
+<p>Os sites do grupo recebem mais de 21 milhões de visitantes únicos por mês, com mais de 1 milhão de SKUs, que totalizam 2,4 milhões de pedidos mensais.</p>
+<h3 id="mcetoc_1edret0s049"><strong>Magazine Luiza (3 sites)</strong></h3>
+<p>O Magazine Luiza recebe <strong>35 milhões de acessos únicos</strong> no seu marketplace, que possui mais de 220 mil itens no portfólio. A empresa incorporou os marketplaces do Netshoes, que recebem 54 milhões de visitas únicas por mês e é reconhecido como o varejo número 1 em fãs na América Latina, com 9,4 milhões de seguidores no Facebook.</p>
+<ul>
+<li>Magazineluiza.com.br</li>
+<li>Netshoes.com.br</li>
+<li>Zattini.com.br</li>
+</ul>
+<h3 id="mcetoc_1edret0s04a"><strong>Via Varejo (4 sites)</strong></h3>
+<p>O grupo Via Varejo, antes conhecido como Cnova, é a responsável pelos seguintes sites, que também estão na lista de mais acessados no Brasil:</p>
+<ul>
+<li>CasasBahia.com</li>
+<li>PontoFrio.com</li>
+<li>Extra.com</li>
+<li>Loja HP</li>
+</ul>
+<p>Os sites recebem mais de 25 milhões de acessos únicos mensais, com 1 milhão de pedidos registrados e 1,4 milhões de vendas.</p>
+<h3 id="mcetoc_1edret0s04b"><strong>GFG (3 sites)</strong><strong> </strong></h3>
+<p>O grupo Global Fashion Group (GFG) é o controlador dos e-commerces:</p>
+<ul>
+<li>Dafiti.com.br (moda)</li>
+<li>Kanui.com.br (produtos esportivos e estilo de vida)</li>
+<li>Tricae.com.br (produtos para bebês e crianças).</li>
+</ul>
+<p>Os três sites também são marketplaces, permitindo a qualquer lojista anunciar nesses canais de venda. Se você trabalha com produtos de moda, como roupas e calçados, esses canais são ótimas oportunidades para o seu negócio!</p>
+<h3 id="mcetoc_1edret0s04c"><strong>Carrefour</strong></h3>
+<p>O grupo Carrefour possui mais de 100 milhões de consumidores na Europa, Ásia e América Latina e também opera no regime de marketplace no Brasil. A operação de e-commerce foi reativada em meados de 2016.</p>
+<h3 id="mcetoc_1edret0s04d"><strong>Cissa Magazine</strong></h3>
+<p>A Cissa Magazine é um e-commerce que atua desde 2010, e seu marketplace tem como foco, produtos eletrônicos.</p>
+<h3 id="mcetoc_1edret0s04e"><strong>Mobly</strong><strong> </strong></h3>
+<p>A Mobly atua desde 2011 no e-commerce brasileiro dentro dos segmentos de móveis, artigos de decoração e itens para a casa. A empresa faz parte do grupo Rocket Internet, que também tem participação no grupo GFG.</p>
+<h3 id="mcetoc_1edret0s04f"><strong>Centauro</strong></h3>
+<p>A Centauro, conhecida pela rede de lojas físicas focada em esportes, também possui um marketplace. O site possui 10 milhões de acessos únicos por mês e mais de 5 milhões de seguidores nas redes sociais.</p>
+<h3 id="mcetoc_1edret0s04g"><strong>ShopFácil</strong></h3>
+<p>O marketplace ShopFácil é o canal de vendas do grupo Bradesco e também permite que lojistas parceiros vendam seus produtos em diversas categorias.</p>
+<h3 id="mcetoc_1edret0s04h"><strong>MadeiraMadeira</strong></h3>
+<p>O MadeiraMadeira é um marketplace do segmento de Casa e Decoração, porém muito mais amplo do que isso. Lá você encontra e pode vender: móveis, pisos, iluminação, artigos para cozinha e banheiro, eletrodomésticos e eletroportáteis, cama, mesa e banho, jardim, lazer e ferramentas.</p>
+<h2 id="mcetoc_1edret0s04i"><strong>Como ser afiliado em vários marketplaces de uma vez só?</strong></h2>
+<p>Agora que você já sabe quais são os principais marketplaces do Brasil, é hora de começar a divulgar os produtos destas lojas!  Como você viu neste texto, existem inúmeras opções disponíveis para os afiliados, incluindo sites de nicho.  para ser afiliado de vários marekplaces, basta buscar pelo programa de afiliados deles em todas as redes de afiliados</p>
+<h2 id="mcetoc_1edsf81evu4" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-weight: var(--font-weight-bold);">Vantagens para os Afiliados que trabalham com os Marketplaces</h2>
+<p> </p>
+<ul>
+<li>Acesso a uma variedade maior de produtos</li>
+<li>Menores preços para produtos</li>
+<li>Acesso a diversas Marcas de produtos para divulgação</li>
+<li>Marcas desconhecidas da sua concorrência que você pode trabalhar ofertando</li>
+<li>Marcas reconhecidas no mercado</li>
+<li>Ampla variedade de categorias</li>
+</ul>
+<p>Conforme você viu no artigo sobre <a href="https://tiagomiarelli.com.br/afiliados-de-performance-no-brasil/">Marketing de performance no Brasil</a>, os principais marketplaces para um afiliado trabalhar hoje são: Magazine luiza, Amazon e B2w</p>
 <p> </p>
 <p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/122/_Marketing_de_Afiliados_no_Brasil-22.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Amazon Associados faz série de Lives para Afiliados</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/amazon-associados-lives-afiliados/"/>
+        <id>https://tiagomiarelli.com.br/amazon-associados-lives-afiliados/</id>
+            <category term="News"/>
+
+        <updated>2020-07-24T01:58:26-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tiagomiarelli.com.br/media/posts/123/associados-amazon.webp" alt="amazon associados lives" />
+                    Abaixo esta a programação completa das lives As inscrições e lembretes podem ser feitos diretamente no canal do youtube 16/07/2020 -&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tiagomiarelli.com.br/media/posts/123/associados-amazon.webp" alt="amazon associados lives" />
+                <p><strong>Abaixo esta a programação completa das lives</strong></p>
+<p>As inscrições e lembretes podem ser feitos diretamente no canal do<a href="https://www.youtube.com/channel/UC-zW3L_OEgileRMq3O4w7xw" target="_blank" rel="nofollow noopener noreferrer"> youtube</a></p>
+<p><strong>16/07/2020 - Melhore seus ganhos com marketing de performance</strong></p>
+<p>Há 6 anos na Amazon Brasil, Amanda Ferracini é líder da área de Marketing de Performance. Em nosso bate-papo ela irá nos contar um pouco sobre a sua trajetória profissional, quais são as expectativas para o e-commerce no Brasil pós pandemia e dar dicas de como usar o Marketing de Performance para melhorar os ganhos em nosso Programa.</p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/FGViRqbiSpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+<p><strong>12/08/2020 -Associados convida: aumente seus ganhos com curadoria</strong></p>
+<div id="primary" class="style-scope ytd-watch-flexy">
+<div id="primary-inner" class="style-scope ytd-watch-flexy">
+<div id="meta" class="style-scope ytd-watch-flexy">
+<div id="meta-contents" class="style-scope ytd-watch-flexy">
+<div id="container" class="style-scope ytd-video-secondary-info-renderer">
+<div id="content" class="style-scope ytd-expander">
+<div id="description" class="style-scope ytd-video-secondary-info-renderer">Com experiência no mercado de criação de conteúdo, Camila Figueiredo é gerente de novas contas do Programa de Associados da Amazon. Durante a live, ela irá nos contar um pouco mais sobre como a criação de listas temáticas, conhecidas como curadoria, pode ser uma ótima opção para ganhar dinheiro fora das épocas de promoções e dicas para você criar a sua.</div>
+<div> </div>
+<div> </div>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/jJSzewPqHps" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+<div id="always-shown" class="style-scope ytd-metadata-row-container-renderer"> </div>
+</div>
+</div>
+</div>
+<div id="ticket-shelf" class="style-scope ytd-watch-flexy"><strong>09/09/2020 - Saiba mais sobre o Amazon Prime</strong></div>
+<div class="style-scope ytd-watch-flexy">Com o lançamento de Amazon Prime no Brasil em 2019, o serviço tem sido um grande benefício para nossos clientes. Com isso, iremos trazer Talita Taliberti, líder de Prime Brasil para nos contar um pouco mais do serviço, seus benefícios e dicas de como incluí-los em suas comunicações.</div>
+<div> </div>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/f6PNAs3tmik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div> </div>
+<div><strong>21/10/2020 - O que esperar da Black friday 2020</strong></div>
+<div>O maior evento do comércio está se aproximando e para que você esteja preparado para esse grande evento vamos trazer Julia Pestana para conversar conosco. Durante nossa conversa, ela irá nos contar um pouco sobre o que podemos esperar desse grande evento, como ficar sabendo das novidades e responder as principais dúvidas.</div>
+<div> </div>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/B0Z8vz-Hm0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+<div> </div>
+<div><strong>11/11/2020 - Saiba mais sobre os dispositivos Echo</strong></div>
+<div>
+<div id="primary" class="style-scope ytd-watch-flexy">
+<div id="primary-inner" class="style-scope ytd-watch-flexy">
+<div id="meta" class="style-scope ytd-watch-flexy">
+<div id="meta-contents" class="style-scope ytd-watch-flexy">
+<div id="container" class="style-scope ytd-video-secondary-info-renderer">
+<div id="content" class="style-scope ytd-expander">
+<div id="description" class="style-scope ytd-video-secondary-info-renderer">Os dispositivos Echo são uma das grandes novidades dos produtos Amazon. Para que você possa aproveitar a época de compras e divulgar a Alexa, nós convidamos a Marcela para contar um pouco mais sobre o que a Alexa pode fazer, quais são as skills disponíveis e dicas de como divulgar esse conteúdo em seu site ou redes sociais.</div>
+<div> </div>
+<div> </div>
+</div>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/qPnt82x81Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+<div id="ticket-shelf" class="style-scope ytd-watch-flexy"> </div>
+<div><strong>09/12/2020 - Melhore seu conteúdo com SEO e o nosso programa de recompensas</strong></div>
+<div>Para fechar o ano, convidamos a Taila e a Raissa para te mostrar como você pode melhorar o seu conteúdo com SEO e o Programa de Recompensas. SEO é uma estratégia que ajuda a melhorar o posicionamento do seu site e redes sociais em sites de busca permitindo você melhorar as suas conversões e o programa de recompensa é um ótimo aliado para criar valor nas suas comunicações. Aproveite essa última sessão para entender melhor esta ferramenta e já começar o próximo ano com o pé direito.</div>
+<div> </div>
+</div>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/-shnpzMdCeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>LinkTrackr Vs ClickMagick para Links Afiliados</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/linktrackr-vs-clickmagick-para-links-afiliados/"/>
+        <id>https://tiagomiarelli.com.br/linktrackr-vs-clickmagick-para-links-afiliados/</id>
+            <category term="Ferramentas de Marketing"/>
+
+        <updated>2020-07-24T01:58:26-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tiagomiarelli.com.br/media/posts/124/linktrackr-vs-clickmagick.webp" alt="LinkTrackr Vs ClickMagick" />
+                    Afiliados de performance precisam necessariamente rastrear seus links afiliados com softwares de rastreamento de links para monitorar suas conversões e vendas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tiagomiarelli.com.br/media/posts/124/linktrackr-vs-clickmagick.webp" alt="LinkTrackr Vs ClickMagick" />
+                <p>Afiliados de performance precisam necessariamente rastrear seus <strong>links afiliados com softwares de rastreamento de links para monitorar suas conversões e vendas</strong></p>
+<p>Não há como fazer uma campanha - ou colocar qualquer tipo de anúncio ou divulgação de forma orgânica - sem poder medir a qualidade e a quantidade de tráfego que isso gera</p>
+<p>É por isso que precisamos de <strong>softwares de rastreamento de links.</strong></p>
+<p>Se você está gastando muito no Google, Facebook e outros anúncios ou mesmo divulgando de forma orgânica em grupos e redes sociais sem ter lucro, provavelmente precisará de algumas ferramentas adequadas de <strong>rastreamento de links</strong>. Caso contrário, você está apenas desperdiçando seu dinheiro e seu tempo</p>
+<p>Existem várias ferramentas disponíveis para ajudar a acompanhar seu tráfego e garantir que seu dinheiro esteja sendo usado nos melhores locais possíveis.</p>
+<p>Duas das ferramentas mais populares disponíveis no momento são <strong>Clickmagick</strong> e <strong>Linktrackr</strong>. </p>
+<p>Ambos são <strong>aplicativos de software de rastreamento de afiliados</strong> que oferecem vários recursos robustos e variados.</p>
+<h2>O que é Rastreamento de Links Afiliados?</h2>
+<p>Essencialmente, o rastreamento de afiliados é o processo de gerenciamento e rastreamento de atividades de marketing. Isso geralmente é realizado com software especial ou vários plugins instalados nos sites afiliados que falaremos em outra oportunidade</p>
+<blockquote>
+<p><em>“É muito importante trackear seus links afiliados de forma que você confronte os seus resultados com as validações e invalidações das redes de afiliados e com outros programas de afiliados a fim de saber por que houve tanta invalidação por parte do anunciante</em><em>”</em></p>
+</blockquote>
+<p><strong>Um software de rastreamento de links permite tanto que uma rede de afiliados, assim como cada afiliado, rastreie e obtenha informações sobre links de produtos e campanhas que recebem mais visitantes, conversões, tráfego ou cliques e que possam ver se uma campanha de marketing está funcionando ou não.</strong></p>
+<p>O <strong><a href="https://tiagomiarelli.com.br/clickmagick-review/">ClickMagick</a></strong> e o <strong><a href="https://tiagomiarelli.com.br/linktrackr-review/">Linktrackr</a></strong> têm duas coisas em comum: seus nomes são difíceis de soletrar para artigos como esse e permitem que os usuários rastreiem links para ajudar a aprimorar seus esforços com divulgação de links afiliados.</p>
+<p><strong>Na sua forma mais básica, eles permitem criar links de rastreamento, que podem ser usados ​​para ver quem clicou nesses links e quais cliques resultaram em vendas, isso é bem diferente do que os afiliados de redes sociais estão acostumando. um software de link tracking (rastreadores de links) não é a mesma coisa que um encurtador de links como o bitly apesar de terem algumas funções iguais</strong></p>
+<h2>LinkTrackr</h2>
+<h3>O que é o Linktrack?</h3>
+<p>O<strong> Linktrackr</strong> é uma solução de rastreamento de links simples e eficaz, que ajuda a monitorar e rastrear cliques com precisão. Ele fornece atualizações em tempo real, mantendo os usuários cientes da origem do tráfego. Todas as contas premium recebem links ilimitados para rastreamento de cliques, enquanto os gráficos em cores facilitam a análise de onde vêm os melhores resultados.</p>
+<p><strong>O Linktrackr permite o uso de nomes de domínio personalizados para rastreamento de links e fornece controle completo sobre todos os dados de um único lugar</strong>. As informações detalhadas de rastreamento e os relatórios em tempo real fornecem aos usuários as informações necessárias para tomar decisões mais informadas.</p>
+<p>Os relatórios e detalhes de rastreamento estão disponíveis no site e também podem ser obtidos através da API. <strong>A solução também está disponível como uma versão gratuita que oferece links ilimitados e rastreamento em tempo real, mas não oferece relatórios para download e outros recursos avançados.</strong></p>
+<h3>Visão geral dos benefícios do Linktrack</h3>
+<p>O Linktrack permite fazer links ilimitados usando qualquer conta, seja gratuita ou paga. Os links podem ser facilmente organizados por grupo, enquanto os usuários também podem usar a pesquisa interna e adicionar anotações. Além de links ilimitados, as assinaturas premium também permitem rastrear cliques ilimitados, enquanto os dados também são mantidos por 30 dias (os links nunca expiram). <strong>As contas premium permitem alterar os links a qualquer momento e facilitam o rastreamento de cliques</strong>. Isso é particularmente útil para profissionais de marketing na Internet, redes sociais e campanhas com emails em massa.</p>
+<p>Os recursos de relatórios em tempo real oferecem informações detalhadas de rastreamento à medida que os cliques acontecem. As informações incluem detalhes como a hora em que um link foi clicado, a origem do clique, as palavras-chave usadas pelo visitante para pesquisar no link, seu endereço IP e mais algumas informações.</p>
+<p>Os gráficos em tempo real ajudam a visualizar a atividade do link e facilitam o entendimento das fontes de tráfego. Isso permite que os usuários visualizem rapidamente todas as estatísticas e detalhem links individuais para obter mais detalhes.</p>
+<p>Todas as assinaturas premium do Linktrack fornecem acesso a emails de alerta que atualizam os usuários em tempo real quando um link é clicado. As notificações por email também contêm informações importantes de rastreamento e ajudam os usuários a se concentrarem em links mais importantes e a otimizar suas campanhas com melhor desempenho. A solução também abrange o rastreamento de conversões, domínios personalizados e alternativos, compartilhamento de páginas de rastreamento, links personalizados, desativação automática de links, datas de validade automática e proteção por senha.</p>
+<div id="features" class="review-page__header">
+<h3>Visão geral dos recursos do Linktrack</h3>
+</div>
+<div class="review-page__features">
+<ul class="review-page__features-list">
+<li>Links ilimitados</li>
+<li>Acompanhamento em tempo real</li>
+<li>Tabelas e gráficos</li>
+<li>Alteração de link</li>
+<li>E-mails de alerta</li>
+<li>Acompanhamento de conversões</li>
+<li>Domínios personalizados e alternativos</li>
+<li>Rastreando o compartilhamento de páginas</li>
+<li>Links de vaidade</li>
+<li>Relatórios para download</li>
+<li>Rastreamento exclusivo de visitantes</li>
+<li>Localização e endereço IP</li>
+<li>Redefinição de dados de rastreamento</li>
+<li>Datas de vencimento automático</li>
+<li>Desativação automática de link</li>
+<li>Links que nunca expiram</li>
+<li>Links protegidos por senha</li>
+<li>Download de dados para uso offline</li>
+</ul>
+</div>
+<h2>Recursos Do LinkTrackr</h2>
+<p>Essa ferramenta fornece aos afiliados vários recursos adicionais para ajudá-los a aproveitar ao máximo seus trabalhos com divulgação de links afiliados</p>
+<h3>Acompanhamento de conversões</h3>
+<p>Com este serviço, você pode acompanhar exatamente de onde suas vendas e leads estão sendo gerados. Você simplesmente coloca um código de rastreamento Javascript simples no seu site.</p>
+<p>O <strong>LinkTrackr</strong> também fornece suporte para o <strong>rastreamento de conversão de postback do servidor</strong>. Isso significa que você realmente não precisa adicionar nenhum código a um site para rastrear um link</p>
+<p><strong>Se você é um profissional de marketing mais preocupado com o desempenho, pode optar pela opção de acompanhamento de conversões de Sub ID</strong>.</p>
+<h3><strong>Acompanhamento de conversões avançado</strong></h3>
+<p>Obviamente, é importante acompanhar suas conversões. Mas para que funcione corretamente, você precisa inserir um código de conversão na página de agradecimento no caso por exemplo de infoprodutos</p>
+<p>Isso se torna um problema, se você é um afiliado que está promovendo os produtos de outras pessoas como na hotmart por exemplo. Você precisaria ter acesso às suas páginas de agradecimento. Às vezes isso é impossível de ter.</p>
+<p><strong>Felizmente, o LinkTrackr apresentou uma solução usando uma combinação de três métodos de rastreamento diferentes: rastreamento de URL de postagem / retorno de chamada, rastreamento de TID e rastreamento de pixels.</strong></p>
+<h3>Rotador de URL</h3>
+<p>É provável que esse seja um recurso popular para qualquer pessoa que queira se aprofundar nas análises de suas conversões.</p>
+<p>Simplificando, esse recurso divide o tráfego recebido em diferentes URLs.</p>
+<p>Digamos que você seja responsável por promoções e anúncios para um grupo de pessoas, esse link rotator é uma maneira engenhosa de dividir o tráfego de alta qualidade entre cada membro do grupo.</p>
+<p>O LinkTrackr inclui isso como parte de seu software de teste dividido.</p>
+<p>Portanto, se você estiver no meio de uma campanha de geração de leads para membros de uma organização downline, onde cada um possui um site replicado ou portal, poderá reforçar facilmente toda a organização com esta ferramenta.</p>
+<h3>Encobrimento de links</h3>
+<p>A ocultação de links provou ser um método popular para os afiliados protegerem seus links e garantirem suas comissões.</p>
+<p>Esse recurso LinkTrackr permite que você encurta e oculte seu link enquanto redireciona os visitantes para o URL que você realmente deseja que eles vejam. no Brasil é muito comum o uso do bitly</p>
+<h3>Cloaking para WordPress</h3>
+<p>Um dos recursos mais interessantes que o LinkTrackr oferece é a capacidade de converter automaticamente palavras-chave em um link de rastreamento ou em um link de afiliado.</p>
+<p><strong>Você só precisa instalar o plug-in gratuito LinkTracker "link cloaking &amp; tracking" em seu site WordPress e poderá converter instantaneamente palavras-chave especificadas em links afiliados.</strong></p>
+<p>Isso economiza muito tempo, porque os blogs do WordPress às ​​vezes podem ter centenas de postagens. Portanto, em vez de adicionar links manualmente, essa ferramenta permite otimizar o processo.</p>
+<p>resumidamente este plugin cria automaticamente um link dentro do seu site nas palavras chaves que você escolher. muito prático!!</p>
+<h3>Acompanhar anúncios PPC</h3>
+<p>É comum que muitos profissionais de marketing percam seu dinheiro graças aos anúncios PPC (anúncios Pay Per Click). Isso pode incluir anúncios do Facebook, Google Ads e muito mais.</p>
+<p>Isso geralmente acontece porque as campanhas expiram e seus anúncios continuam em exibição, o que apenas gasta seu dinheiro.</p>
+<p>quantas vezes um anunciante fez uma campanha e retirou do ar sem avisar os afiliados não é mesmo?</p>
+<p>Outro motivo para rastrear anúncios PPC é porque você está enviando tráfego para uma página de destino do anunciante e não tem acesso à conta do Google Analytics ou geralmente nenhuma forma de saber se a campanha esta desativada pelo anunciante e mesmo assim seus anúncios continuam rodando. resumindo você leva vendas para eles sem ganhar nada como afiliado</p>
+<p>Para combater esse problema, o LinkTracker desenvolveu um formato de link específico para você usar em todos os anúncios criados. Tudo o que você precisa fazer é modificar alguns parâmetros e poderá acompanhar seus anúncios de pagamento por clique.</p>
+<h3>Outros Recursos</h3>
+<p>Alguns outros recursos do LinkTrackr incluem:</p>
+<ul>
+<li>Rastreamento por subID</li>
+<li>Teste de divisão A/B</li>
+<li>Rastreamento de pixels</li>
+<li>Rastreamento PPC</li>
+</ul>
+<h2>ClickMagick</h2>
+<p>O rastreamento de cliques vai além das ferramentas analíticas gratuitas como o bitly por exemplo, e é isso que permite testar com precisão os preços, métodos de pagamento, copy de páginas, design da página e inúmeros outros fatores.</p>
+<blockquote>
+<p>Ironicamente, um software de rastreamento de cliques geralmente é uma daquelas coisas que você não <i>sabe</i> que precisa até começar a usá-lo.</p>
+</blockquote>
+<h3>Visão geral dos benefícios do ClickMagick</h3>
+<h3>O que é o ClickMagick?</h3>
+<p>ClickMagick é um aplicativo baseado na Web que o ajudará a rastrear e otimizar seu trabalho como afiliado de performance</p>
+<p><strong>Em um nível básico, permite criar links de rastreamento que mostrará quem clicou nos seus links e (se configurado corretamente), quais cliques levaram a vendas.</strong></p>
+<h3>Quais são os meus recursos mais legais do ClickMagick?</h3>
+<p><strong>Funcionalidade interessante # 1: adicione sub-ids dinamicamente a qualquer link de rastreamento</strong></p>
+<p>Digamos que eu queira adicionar meu link de afiliado da amazon à algum post no blog que recebe muitas visitas </p>
+<p>Com os sub-IDs, eu poderia criar um identificador exclusivo para cada fonte (por <strong>exemplo</strong> , <strong>post_1</strong> , <strong>post_2</strong> , <strong>post_3</strong> ) e usá-los como um subid para identificar qual clique do link veio de onde.</p>
+<p>Com a maioria das soluções de rastreamento de links, você precisa criar vários links de rastreamento para cada link de afiliado + subid.</p>
+<p>Porém, com o ClickMagick, você pode criar um <strong>único link de rastreamento</strong> e anexar dinamicamente 1 ou mais subids adicionando-os após barras invertidas como esta.</p>
+<p><em>https://tools4mkt.com</em><strong><em>/</em> subid1 / subid2 /</strong></p>
+<p>Se o programa de afiliados ao qual você está vinculando também oferecer suporte a subids, você poderá transmiti-lo dessa maneira.</p>
+<p><em>https://amazon.com.br?cf_affiliado_id=806191&amp;affiliado_id=806191&amp; </em><strong>aff_sub = [s1]</strong> &amp; <strong>aff_sub2 = [s2]</strong></p>
+<p>Seu subid1 substituirá [s1] e o subid2 substituirá [s2] no link acima.</p>
+<p>Mesmo que o programa de afiliados ao qual você está vinculando não permita subids, isso ainda será útil, pois você poderá ver os subids nas estatísticas do ClickMagick.</p>
+<p><strong>Recurso interessante # 2: você pode acompanhar páginas que não são suas</strong></p>
+<p>Normalmente, quando alguém opta ou compra algo em sua página de vendas ou seu site afiliado, ele é levado à sua página de obrigado no caso de infoprodutos por exemplo</p>
+<p>é esta página que contém seu pixel de conversão e, uma vez acionado, o ClickMagick saberá que ocorreu uma conversão bem-sucedida.</p>
+<p>Coisas bastante comuns, mas e o que acontece se você quiser enviar alguém para uma página externa?</p>
+<p>Bem, o ClickMagick tem uma solução!</p>
+<p><strong>Quando alguém se inscreve ou faz uma compra, é direcionado rapidamente para uma página em branco que contém seu pixel de conversão.</strong></p>
+<p><strong>Então, num piscar de olhos e sem que o usuário perceba, eles serão redirecionados para a página externa. Como se fosse mágica.</strong></p>
+<p>É uma solução simples, mas eficaz</p>
+<p><strong>Funcionalidade interessante # 3: mede a QUALIDADE do seu tráfego</strong></p>
+<p>A qualidade do tráfego é real.</p>
+<p>Se você estiver enviando tráfego de baixo nível para suas ofertas, saberá disso mais cedo ou mais tarde. existem muitos bots navegando por sites. em alguns sites é possível por exemplo comprar 10 mil visitas no site por 5 doláres a fim de parecer que seu site tem muito tráfego perante aos olhos de anunciantes e redes de afiliados</p>
+<p>O ClickMagick fornece uma visão imediata sobre que tipo de pessoas estão acessando seus links e qual a probabilidade de compra.</p>
+<p>Esse recurso é particularmente útil se você estiver comprando tráfego, mas ainda oferece bastante utilidade para o tráfego orgânico. uma vez que você evita tráfego de bots e sabe que quem acessa seu site é uma pessoa real</p>
+<p><strong>Funcionalidade interessante # 4: notificações diretamente na sua caixa de entrada (ou telefone)</strong></p>
+<p>As notificações são um recurso mais recente do ClickMagick e não é provável que você encontre na maioria das ferramentas de rastreamento de links.</p>
+<p>A primeira coisa que você precisa fazer é definir as configurações de notificação digitando seu email e / ou número de telefone.</p>
+<p>Você pode definir um gatilho com base em:</p>
+<ul>
+<li>Taxa de conversão de ações</li>
+<li>Conversão de engajamento</li>
+<li>Taxa de conversão de vendas</li>
+<li>Ganhos por clique</li>
+<li>Valor médio do cliente</li>
+</ul>
+<p>Qual é o objetivo?</p>
+<p>Bem, quanto mais cedo você souber sobre um desempenho inferior, mais cedo poderá desviar o tráfego dessa página para uma variação melhor.</p>
+<h2>Recursos Do ClickMagick</h2>
+<h3>Rastreamento orgânico</h3>
+<p>Seu site recebe um código do <strong>ClickMagick</strong>, que é usado para monitorar o tráfego orgânico. É assim que os usuários chegam à sua página (por meio de uma pesquisa no Google, por exemplo). Você também recebe um código de pixel de acompanhamento de conversões para acompanhar também as conversões.</p>
+<p>É importante observar que o tráfego orgânico proveniente de sites com o endereço "https" não pode ser detectado. Isso ocorre porque eles são sites protegidos e não têm permissão para transmitir detalhes do referenciador.</p>
+<p>Então, se você tem tráfego vindo do Facebook, digamos, tudo será relatado anonimamente sob o título "nenhum".</p>
+<h3>Rotadores</h3>
+<p>Como o <strong>Linktrackr</strong>, o <strong>Clickmagick</strong> oferece a capacidade de girar URLs. Essa ferramenta permite que você coloque mais de um URL de local</p>
+<p>Portanto, se você estiver gerenciando o tráfego de dois sites, cada um deles fornecerá um URL de link. Você configura os dois links em um URL de link do rotador que começa com http://www.clkmr.com/ .</p>
+<p>O link do rotador é então publicado ou distribuído. Ele pode ser incluído em uma lista de discussão, adicionado a uma campanha do Instagram ou a qualquer número de outros tipos de publicidade. Quando as pessoas clicam nesse link, elas serão direcionadas para qualquer um dos dois sites.</p>
+<p>Um aspecto interessante dessa ferramenta, oferecida especificamente pelo ClickMagick, é que ela oferece quatro modos diferentes de URLs do rotador.</p>
+<p><strong>Modo de atendimento</strong>  - permite enviar todo o tráfego para o URL específico (que inclui cliques repetidos do mesmo usuário) até que o URL receba o número máximo de cliques necessário.</p>
+<p><strong>Modo sequencial </strong><em>-</em> cria um cenário em que, se o usuário clicar em um link, ele será direcionado para o primeiro URL. Se e quando clicarem no mesmo link exato, serão direcionados para o segundo URL. Essencialmente, você está alternando sequencialmente qual página receberá tráfego.</p>
+<p><strong>Modo Spillover </strong><i>-</i> é semelhante ao modo Sequencial, mas você define o segundo URL para o qual deseja direcionar seus usuários depois que eles já clicaram no link uma vez. Portanto, se eles já passaram por todos os URLs na rotação, serão enviados para outro lugar.</p>
+<p><strong>Modo aleatório </strong><em>-</em> é bastante simples - distribui os cliques que você recebe em uma ordem completamente aleatória.</p>
+<h3>MagickPops</h3>
+<p>O ClickMagick oferece quatro tipos diferentes de pop-ups:</p>
+<p><strong>Ao carregar o pop</strong>-<strong>up</strong> - aparece no momento em que um visitante chega à sua página.</p>
+<p><strong>Pop</strong>-<strong>up</strong> <strong>atrasado</strong> - Isso aparece após um número especificado de segundos.</p>
+<p><strong>Sair pop-up</strong> - se o cursor do usuário sair da janela ou estiver prestes a fechá-la, eles serão recebidos por esta mensagem.</p>
+<p><strong>Redirecionar</strong> - tecnicamente não é uma janela pop-up, mas redireciona os usuários para uma página diferente quando tentam sair do site.</p>
+<p>O <strong>ClickMagick</strong> fornece um editor visual para ajudá-lo a criar seus pop-ups. Você pode incluir imagens e tabelas, incorporar vídeos do YouTube, tocar música ativando o som ou até definir um cronômetro de contagem regressiva.</p>
+<p>Você também pode ir além e incluir um formulário de inclusão incorporado ao HTML, para que os usuários possam fornecer suas informações e reunir novos leads.</p>
+<h3>MagickBars</h3>
+<p>Essa é uma barra que aparece na parte superior ou inferior do site e permanece até o usuário executar uma ação para fechá-lo.</p>
+<p>Eles também podem ser projetados no editor visual do <strong>ClickMagick</strong>. A partir daí, você pode adicionar imagens, tabelas, incorporar vídeos do YouTube, som, alterar a cor do plano de fundo, adicionar balões de fala, um contador regressivo e outros apetrechos legais.</p>
+<p>Isso pode ser usado para convidar visitantes para uma das suas páginas afiliadas ou outra página de vendas. Ou você pode simplesmente usá-lo para anunciar uma nova venda ou outra promoção.</p>
+<h3>Temporizadores</h3>
+<p>Os contadores de contagem regressiva são uma ótima maneira de criar um senso de urgência em seus visitantes.</p>
+<p>O <strong>ClickMagick</strong> está bem ciente disso e, como tal, inseriu um cronômetro de contagem regressiva em muitos dos recursos de sua ferramenta.</p>
+<p>Eles são fáceis de configurar e existem quatro designs diferentes e dois tipos diferentes de temporizadores - temporizadores sempre-verdes / com cookies e temporizadores baseados em datas. Você simplesmente copia e cola o código em qualquer lugar do seu site.</p>
+<h3>Tráfego de qualidade</h3>
+<p>Uma das melhores características do <strong>ClickMagick</strong> é que ele não apenas rastreia o tráfego que entra no seu site, mas também monitora a <strong>QUALIDADE do tráfego</strong>.</p>
+<p>De fato, o ClickMagick pode fornecer informações imediatas sobre que tipos de pessoas estão usando seus links e se é provável que comprem.</p>
+<p>O ClickMagick cria um índice de qualidade com base em vários fatores diferentes. O mais importante deles é o "nível".</p>
+<p>Segundo o ClickMagick, uma pontuação de pelo menos 55 é média, enquanto uma pontuação de 85 ou superior é considerada muito boa.</p>
+<p>Essa é uma ferramenta útil quando você compra tráfego, mas ainda pode fornecer muitas informações sobre o tráfego orgânico.</p>
+<h3>Rastreando sites que não são seus</h3>
+<p>Assim como o <strong>LinkTrackr</strong>, o <strong>ClickMagic</strong> também oferece a capacidade de rastrear links em sites que você não são seus.</p>
+<p>Novamente, esta é uma ferramenta muito útil para quem está executando um programa de afiliados ou apenas tentando promover o produto de outra pessoa.</p>
+<p>Infelizmente, a mecânica exata da ferramenta é um pouco complicada para se aprofundar aqui, mas aqui você pode conferir o guia prático do ClickMagick para começar.</p>
+<p>Outros recursos úteis do ClickMagick incluem:</p>
+<h3>Importador / Exportador de Dados</h3>
+<p>Seus vários dados de link podem ser exportados para aplicativos de terceiros. Da mesma forma, os dados de outras ferramentas de rastreamento podem ser enviados ao ClickMagick usando um arquivo CSV.</p>
+<h3>Gerenciador de IP</h3>
+<p>Você pode filtrar e até bloquear endereços IP específicos ou intervalos de IP. Você só precisa inseri-los manualmente no sistema.</p>
+<h3>Pesquisa de IP</h3>
+<p>Isso mostra o histórico e a atividade de um endereço IP específico. Ele mostra cliques, vendas, entradas e muito mais, tudo combinado com um carimbo de data e hora para cada evento. Isso é útil quando você está procurando cliques suspeitos ou estranhos.</p>
+<h3>Editor de lotes</h3>
+<p>Isso permite editar, redefinir ou apagar links, rotadores e URLs do rotador em blocos, em vez de editar cada link individualmente.</p>
+<h2>Preços Do LinkTrackr</h2>
+<p><strong>Quando se trata de preços, é importante observar que as duas empresas oferecem uma avaliação gratuita de 30 dias. Isso significa que você pode brincar com os dois antes de tomar sua decisão final.</strong></p>
+<p>Com isso dito, vamos nos aprofundar um pouco no que cada empresa oferece até o custo.</p>
+<p>Se você não for vendido no LinkTrackr após 30 dias, basta fazer o downgrade ou cancelar sua assinatura e receber seu dinheiro de volta.</p>
+<p>Dito isto, o LinkTrackr é uma opção relativamente acessível. O nível mais baixo começa em apenas 9 doláres por mês.</p>
+<p>Por esse preço, os usuários recebem 100 links de rastreamento e um total de 10.000 cliques por mês. Eles também recebem domínios de camuflagem e de marca. Isso pode não parecer muito para alguns usuários, mas para empresas menores, pode estar certo.</p>
+<p>Se você estiver procurando por mais recursos, o plano de 19 doláres fornece 500 links, 50.000 cliques e os mesmos recursos listados acima. Além disso, você obtém o acompanhamento de conversões - essencial para a maioria dos profissionais de marketing on-line.</p>
+<p>Depois disso, é o plano de 39 doláres por mês, que inclui 1.000 links e 100 mil cliques por mês. Ele também adiciona o recurso de teste de divisão.</p>
+<p>O plano mais alto é de 69 doláres por mês, o que fornece 5.000 links e meio milhão de cliques.</p>
+<h2>Preços ClickMagick</h2>
+<p>O ClickMagick oferece três escalas de preços diferentes. Cada um vem com sua própria variedade de recursos. Após o período obrigatório de avaliação de 30 dias, os usuários poderão cancelar se não estiverem satisfeitos.</p>
+<p>Se você optar por pagar anualmente, poderá economizar até 30% no ano.</p>
+<p>Com o plano inicial de 12 doláres da ClickMagick, você recebe 10.000 cliques por mês, um funil para FunnelMagick, rastreamento orgânico para um único site e a capacidade de monitorar dois domínios personalizados. Tudo isso vem com seis meses de retenção de dados.</p>
+<p>O plano padrão custa 33 doláres e oferece 100.000 cliques por mês, cinco funis para FunnelMagick, rastreamento orgânico, dois domínios personalizados e seis meses de retenção de dados.</p>
+<p>O Pro Plan chega a 66 doláres e inclui 1 milhão de cliques por mês, funis ilimitados e rastreamento orgânico para sites ilimitados.</p>
+<p>Você também pode rastrear domínios personalizados ilimitados e recebe dois anos de retenção de dados.</p>
+<h2>Conclusão - Clickmagick Vs Linktrackr</h2>
+<p>Ambas as opções são ferramentas poderosas e eficazes que melhorarão exponencialmente suas habilidades de marketing de afiliado do que diz respeito a tracking de links</p>
+<p>Afinal, sem a capacidade de monitorar o desempenho de nossas várias campanhas, estamos simplesmente jogando dinheiro no escuro e esperando ter sucesso.</p>
+<p>O <strong>LinkTrackr</strong> e o <strong>ClickMagick</strong> ajudam bastante a esclarecer um pouco os nossos esforços.</p>
+<p><strong>Como dissemos, ambos oferecem um período de teste gratuito de 30 dias. Portanto, não há mal algum em experimentar os dois e ver qual é o mais adequado para você.</strong></p>
+<p>No entanto, se você estiver olhando para as opções de preço da camada intermediária ou superior, o <strong>ClickMagick parece oferecer mais por menos</strong>.</p>
+<p>No final do dia, a decisão será sua. Mas você definitivamente deve dedicar seu tempo a procurar esses dois produtos e encontrar o que pode ajudá-lo melhor.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ClickMagick: uma ferramenta com superpoderes</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/clickmagick-review/"/>
+        <id>https://tiagomiarelli.com.br/clickmagick-review/</id>
+            <category term="Ferramentas de Marketing"/>
+
+        <updated>2020-07-24T01:58:26-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tiagomiarelli.com.br/media/posts/125/ClickMagick.webp" alt="clickmagick" />
+                    O ClickMagick é uma das melhores ferramentas de rastreamento de cliques do mercado que você precisa usar para ajudá-lo a concentrar seus&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tiagomiarelli.com.br/media/posts/125/ClickMagick.webp" alt="clickmagick" />
+                <p>O <strong>ClickMagick</strong> é uma das melhores ferramentas de rastreamento de cliques do mercado que você precisa usar para ajudá-lo a concentrar seus esforços na direção certa como afiliado</p>
+<p>Usar um bom software de rastreamento de cliques é realmente crucial para expandir seus negócios de SEO e como afiliado de performance</p>
+<h2 id="pros-and-cons" class="ftwp-heading">PRÓS E CONTRAS</h2>
+<div class="section-box">
+<h3 id="pros" class="ftwp-heading">Prós</h3>
+<ul class="pros">
+<li>Vem com recursos realmente abrangentes e altamente flexíveis</li>
+<li>A rotação de links ajuda muito na distribuição de tráfego para ofertas diferentes e também se você deseja vender cliques</li>
+<li>O acompanhamento de conversões em várias plataformas é bastante avançado, faltando muitas ferramentas. Os anúncios do FB têm isso e são considerados sorrateiros - mas não para nós, profissionais de marketing.</li>
+<li>Possui uma ferramenta de criação de funil que permite criar links facilmente para seu funil</li>
+<li>O ClickMagick possui a funcionalidade de URL de postagem que permite rastrear conversões sem pixels ao lidar com ofertas de afiliados</li>
+<li>O ClickMagick vem com utilitários realmente bons, como pesquisa de ID de clique, pesquisa de IP, depurador de pixels e muito mais</li>
+<li>Ele vem com um recurso de editor em lote para editar os links do ClickMagick em massa.</li>
+<li>O ClickMagick possui um recurso de documentação "personalizado" (ele também gera as diretrizes personalizadas - primeiro de seu tipo para mim), bastante extensas e explicadas com lucidez de maneira fácil de digitalizar.</li>
+<li>Eles possuem um sistema de suporte rápido de 1 hora.</li>
+</ul>
+</div>
+<div class="section-box">
+<h3 id="cons" class="ftwp-heading">Contras</h3>
+<ul class="cons">
+<li>Os preços do ClickMagick estão um pouco mais caros  que seus concorrentes. Mas ainda é mais barato em comparação com outras ferramentas populares.</li>
+<li>O UX / UI precisa de um pouco de aprimoramento quando se trata de facilitar o entendimento dos recursos. Se você é iniciante, passa a maior parte do tempo nas documentações em texto.</li>
+</ul>
+</div>
+<h2 id="the-need-for-clickmagick" class="ftwp-heading">A NECESSIDADE DO CLICKMAGICK</h2>
+<p>Se você é um profissional de marketing de afiliados experiente, já sabe a importância de atribuir suas conversões de afiliados aos cliques. É crucial saber qual fonte de tráfego está melhor convertendo quando se trata de seu funil e também ofertas de afiliados.</p>
+<p>O ClickMagick também vem com recursos avançados de rastreamento, como URL de postagem, sequências de consulta e também usa Javascript e cookies para rastrear o comportamento do usuário por todo o funil e fornecer uma imagem precisa da jornada do visitante em seu funil.</p>
+<p>Ele também vem com vários recursos de CRO, como rotação de links, teste A / B para aprimorar ainda mais os resultados de seus afiliados.</p>
+<h2 id="setting-up-clickmagick" class="ftwp-heading">CONFIGURANDO O CLICKMAGICK</h2>
+<div class="section-box">
+<h3 id="set-up-your-own-domain-subdomain" class="ftwp-heading">Configure seu próprio domínio / subdomínio</h3>
+<p>O ClickMagick permite que você esconda seu URL longo e feio de afiliado em algo elegante e com marca</p>
+<p>Eu recomendo que você use domínios / subdomínios personalizados.</p>
+<p>Porque, infelizmente, você não pode usar domínios genéricos de rastreamento clkmg.com ou clkmr.com em e-mails ou ao postar nas mídias sociais. Você precisa configurar um domínio de rastreamento personalizado para isso.</p>
+</div>
+<div class="section-box">
+<h3 id="create-a-link" class="ftwp-heading">Crie um link</h3>
+<figure class="wp-block-video"></figure>
+<p>Para cada link criado, você tem muitas opções, como:</p>
+<ul class="arrows">
+<li><strong>Básico</strong> : aqui você pode inserir o nome do link, slug, selecionar o domínio personalizado e o URL de destino</li>
+<li><strong>Capa</strong> : ClickMagick permite que você esconda verdadeiramente seus links. Isso é especialmente útil quando os links de afiliados estão na lista negra do seu software de marketing por e-mail ou do Facebook.</li>
+<li><strong>Pixels</strong> : aqui você pode adicionar os pixels de rastreamento ou conversão que precisam ser acionados quando as pessoas clicam no link. Você também tem opções para adicionar links de afiliados dinâmicos, além de pixels de rastreamento, os quais discutimos mais adiante.</li>
+<li><strong>Funil</strong> : aqui você pode marcar um link como entrada do funil e selecionar a atribuição de conversão. Esse é um recurso muito importante, pois o ClickMagick rastreia toda a jornada de uma pessoa ao longo do funil.</li>
+<li><strong>Custo:</strong> aqui você pode definir o custo do seu tráfego para que o ClickMagick relate efetivamente o ROI e outras métricas de desempenho.</li>
+<li><strong>URLs</strong> : aqui você pode definir o URL de backup (se o URL principal não estiver disponível), o URL para celular (suponha que você tenha uma página de destino separada para dispositivos móveis) e o URL de repetição (onde as pessoas que clicaram no seu link devem ir)</li>
+<li><strong>Localização geográfica</strong> : aqui você pode ativar / desativar seu link para diferentes países, digamos que você queira excluir a UE se não tiver o sistema GDPR instalado.</li>
+<li><strong>Filtro</strong> : aqui, você pode filtrar efetivamente o tráfego de bots, servidores, spiders etc. para que seus relatórios fiquem saudáveis.</li>
+<li><strong>Diversos</strong> : aqui você pode definir o máximo de cliques, senhas etc.</li>
+</ul>
+</div>
+<div class="section-box">
+<h3 id="funnel-setup-tool" class="ftwp-heading">Ferramenta de configuração de funil</h3>
+<p>Com essa ferramenta, você pode criar efetivamente vários links para diferentes páginas de destino do seu funil.</p>
+</div>
+<div class="section-box">
+<h3 id="dynamic-affiliate-links" class="ftwp-heading">Links afiliados dinâmicos</h3>
+<p class="has-background has-light-blue-background-color"><strong>Nota</strong> : Esse recurso pode levar à proibição de afiliados, pois o uso indevido desse recurso pode ser considerado como enchimento de cookies. Use-o para fins legítimos.</p>
+<p>Com esta ferramenta, você pode potencialmente redirecionar as pessoas para sua própria página de vendas de afiliados (em vez da página de afiliados do anunciante), mas ainda assim, você pode definir esse cookie de afiliado e obter uma comissão.</p>
+<p>Suponha que você esteja promovendo um produto. A página original de vendas do anunciante desse produto é muito ruim. Então você pensa: "Posso criar uma página de vendas melhor e aumentar minhas conversões".</p>
+<p>Nesse caso, links dinâmicos de afiliados ajudarão você.</p>
+<p>Com isso, sempre que as pessoas clicarem no seu link, elas serão direcionadas intermitentemente para o URL original do afiliado (para soltar o cookie) e depois direcionadas para a página do anunciante</p>
+</div>
+<div class="section-box">
+<h3 id="clickmagick-batch-editor" class="ftwp-heading">Editor de lotes ClickMagick</h3>
+<p>Isso economizará muito tempo editando as configurações comuns dos links que você criou.</p>
+</div>
+<h2 id="features-for-tracking-conversions" class="ftwp-heading">RECURSOS PARA ACOMPANHAR CONVERSÕES</h2>
+<div class="section-box">
+<h3 id="campaign-builder" class="ftwp-heading">Construtor de campanha</h3>
+<p>Criar parâmetros UTM manualmente pode ser bastante demorado e propenso a erros de digitação.</p>
+<p>Com o criador de campanhas, você pode garantir que os parâmetros UTM criados sejam consistentes.</p>
+<p>Ele também possui parâmetros específicos do ClickMagick que permitem adicionar parâmetros avançados adicionais e também substituir as configurações padrão do ClickMagick.</p>
+<p>Esses parâmetros levam seu rastreamento e relatórios a um nível totalmente novo.</p>
+<p>Depois de criar todos esses parâmetros, se você achar que o URL resultante é muito longo, poderá encurtar-lo facilmente.</p>
+<p>Quando você analisa seus relatórios, será muito fácil determinar quais fontes, mídias, campanhas, anúncios têm melhor desempenho do que outras.</p>
+</div>
+<div class="section-box">
+<h3 id="using-sub-ids-for-tracking" class="ftwp-heading">Usando sub IDs para rastreamento</h3>
+<p>Você também pode usar os sub IDs para rastrear cliques e ações do seu link.</p>
+<p>Com isso, você terá uma idéia sobre quais fontes de tráfego estão convertendo bem. Você poderá detalhar sistematicamente os relatórios.</p>
+<p class="has-background has-light-blue-background-color">No entanto, a maioria das pessoas estaria melhor com os parâmetros do Campaign Builder ou UTM. Mas para alguns outros, essa estrutura parece organizada.</p>
+</div>
+<div class="section-box">
+<h3 id="postback-url" class="ftwp-heading">URL de postagem</h3>
+<p>Às vezes, é bastante difícil mapear a jornada do usuário em seu funil usando parâmetros e outros métodos de rastreamento.</p>
+<p>Especialmente, quando você não tem controle sobre a página de destino do anunciante e que não deixa você colocar um pixel</p>
+<p>Nesse caso, muitos programas afiliados oferecem suporte a URLs de postagem para relatar as conversões de volta aos servidores ClickMagick.</p>
+<p>Você precisa copiar o URL de postagem que o ClickMagick fornece e colá-lo nas configurações da sua rede de afiliados. Sempre que as vendas acontecem, sua plataforma afiliada envia dados para o URL de postagem do ClickMagick.</p>
+</div>
+<div class="section-box">
+<h3 id="pixel-builder-for-tracking-actions" class="ftwp-heading">Construtor de pixels para rastrear ações</h3>
+<p>Até agora, você sabia como acompanhar a jornada do visitante, como usar o URL de postagem para permitir que sua plataforma afiliada relate a venda de volta ao ClickMagick .</p>
+<p>O ClickMagick permite que você rastreie as várias atividades que acontecem no seu site, como inscrições, visitas etc</p>
+<p>Ele permite que você crie pixels no formato HTML (para sites que você não possui) ou JavaScript.</p>
+<p>Aqui, você precisa prestar atenção principalmente em três coisas:</p>
+<ul class="arrows">
+<li>Selecione o objetivo - ação, compromissos e vendas.</li>
+<li>Valor de referência - um pequeno texto identificador para a ação</li>
+<li>Tipo de pixel - HTML ou JavaScript</li>
+</ul>
+<p>Agora, você precisa copiar o código de pixel resultante e colá-lo na seção &lt;head&gt; da sua página</p>
+<p class="has-background has-light-blue-background-color">Você também pode colar isso na seção "Pixels" do link ClickMagick se quiser que o pixel seja acionado no momento em que as pessoas clicam no seu link e chegam à página. </p>
+</div>
+<div class="section-box">
+<h3 id="cross-device-conversion-tracking" class="ftwp-heading">Acompanhamento de conversões em dispositivos diferentes</h3>
+<p>O ClickMagick também vem com acompanhamento completo de conversões entre dispositivos ou plataformas em todas as suas campanhas, rotadores de links e muito mais.</p>
+<p>Considere o seguinte cenário: um usuário clica no seu anúncio do Google ou do Facebook e entra na sua lista no dispositivo móvel; depois, uma semana depois, eles recebem um e-mail de você no computador, clicam em um link no e-mail e fazem uma compra .</p>
+<p>Sem o rastreamento em dispositivos diferentes, eles seriam tratados como um novo usuário, pois originalmente clicaram no seu anúncio no dispositivo móvel e não haveria como atribuir essa venda ao anúncio que gerou o cliente.</p>
+<p>O rastreamento em dispositivos diferentes está disponível nos planos Standard e Pro, para campanhas, links de rastreamento e rotadores.</p>
+</div>
+<h2 id="features-for-boosting-conversions" class="ftwp-heading">RECURSOS PARA AUMENTAR AS CONVERSÕES</h2>
+<div class="section-box">
+<h3 id="a-b-testing" class="ftwp-heading">Teste A / B</h3>
+<figure class="wp-block-video aligncenter"></figure>
+<p>O teste A/B permite atribuir várias variações do URL a um único link ClickMagick.</p>
+<p>E também permite definir a alocação de tráfego.</p>
+<p>Após o início do teste A / B, o link Clickagick começará a direcionar os visitantes para todos os diferentes links configurados em variações e informará qual variação é a vencedora.</p>
+<p>Essa é uma ótima maneira de testar quais das suas páginas de destino têm bom desempenho.</p>
+<p>Se você já usa ferramentas como o Google Optimize, VWO ou Optimizely para apresentar variações diferentes da página no mesmo URL, esse recurso pode não ser útil para você.</p>
+</div>
+<div class="section-box">
+<h3 id="link-rotation" class="ftwp-heading">Rotação do link</h3>
+<p>Com a rotação do link, você pode ter vários URLs para um link simples do ClickMagick e permitir que o ClickMagick direcione os visitantes a esses URLs de maneira rotativa com vários modos, como:</p>
+<figure class="wp-block-video aligncenter"></figure>
+<ol class="circle">
+<li><strong>Cumprimento</strong> : o Modo de Cumprimento enviará todo o tráfego para o primeiro URL ativo no rotador - incluindo cliques repetidos do mesmo usuário - até que o URL receba o número máximo de cliques exclusivos (mais bônus) especificados.</li>
+<li><strong>Transbordamento:</strong> o Modo Transbordamento enviará tráfego para cada URL no rotador, um após o outro, conforme os usuários repetidos acessem o rotador várias vezes.</li>
+<li><strong>Aleatório:</strong> o modo Aleatório é exatamente o que parece e distribuirá seus cliques de maneira completamente aleatória para todos os URLs ativos.</li>
+<li><strong>Sequencial:</strong> o Modo Sequencial enviará os cliques recebidos para cada URL do rotador em ordem e, quando chegar ao fundo, simplesmente começará novamente no topo.</li>
+</ol>
+<p>É muito fácil confundir o teste A / B com a rotação do link. Aqui estão algumas dicas:</p>
+<ul class="arrows">
+<li>Ao testar A / B, o visitante vê a página exata quando clica em um link repetidamente. Porque os resultados não devem ser distorcidos. Por outro lado, com a rotação de links, os usuários podem ser redirecionados para diferentes links com base no modo definido por você.</li>
+<li>Os rotadores de link têm configurações extras de venda de cliques.</li>
+<li>Os rotadores de link são mais adequados se você estiver vendendo anúncios individuais ou gerenciando muitos anúncios.</li>
+</ul>
+<p class="has-background has-light-blue-background-color">Se você deseja saber qual URL converte bem e deseja decidir o vencedor, use o teste A / B. Se você estiver distribuindo tráfego para várias ofertas diferentes ou vendendo cliques, use a rotação do link.</p>
+</div>
+<h2 id="clickmagick-utilities-worth-mentioning" class="ftwp-heading">UTILITÁRIOS CLICKMAGICK (VALE A PENA MENCIONAR)</h2>
+<ul class="arrows">
+<li><strong>Pesquisa de ID de clique</strong> : você pode usar essa ferramenta para visualizar dados de clique e conversão de um ID de clique específico.</li>
+<li><strong>Pesquisa de IP</strong> : aqui você pode digitar qualquer endereço IP e ver sua atividade com os links do ClickMagick (todos os dados disponíveis) ou através de TODOS os links do ClickMagick (os dados serão ocultados por questões de privacidade)</li>
+<li><strong>Depurador de pixels</strong> : com isso, basta inserir o URL da página de destino e essa ferramenta verificará se o pixel do ClickMagick está presente nessa página.</li>
+<li><strong>Editor de pixel / código</strong> : você pode usar esta ferramenta para definir ou desabilitar rapidamente pixels de rastreamento ou outros códigos de rastreamento para todos os seus links, rotadores e / ou URLs do rotador com um clique</li>
+<li><strong>Importador / exportador de dados</strong> : permite exportar / importar seletiva ou totalmente a mágica do ClickMagick para / de diferentes contas do ClickMagick</li>
+</ul>
+<h2 id="pricing" class="ftwp-heading">Preços</h2>
+<p>Se você é um afiliado experiente e deseja acompanhar mais de 10.000 cliques por mês, siga o plano padrão. Ele também vem com rastreamento entre dispositivos, rastreamento de 5 funis e retenção de dados por 1 ano, etc.</p>
+<p>ClickMagick  em comparação com outras ferramentas de fato é mais barato do que outras alternativas como Voluum, que começa em 69 doláres por mês e vem com características semelhantes. Porém, o Voluum não tem tanta flexibilidade quanto o ClickMagick quando se trata de rotação de links e outros recursos.</p>
+<p>O preço do ClickMagick é comparado ao Clickmeter. Os planos para iniciantes dessas duas ferramentas quase custam o mesmo. Com esse plano, o ClickMagick vem com 10.000 cliques mensais e, por outro lado, o Clickmeter vem com 25.000 eventos mensais. Eventos = Cliques + Visualizações.</p>
+<h2 id="verdict" class="ftwp-heading">Conclusão</h2>
+<p>No geral, eu diria que o ClickMagick é a melhor ferramenta de rastreamento de cliques all-in-one do mercado. Seu preço é bom e oferece recursos extremamente flexíveis em comparação com seus concorrentes.</p>
+<p>Se você deseja saber em quais aspectos da sua geração de tráfego você precisa se concentrar, é crucial usar uma boa ferramenta de rastreamento de cliques. E, eu diria que o ClickMagick é a melhor ferramenta.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>LinkTrackr Review: Melhor Cloaker de Link de Afiliado</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/linktrackr-review/"/>
+        <id>https://tiagomiarelli.com.br/linktrackr-review/</id>
+            <category term="Ferramentas de Marketing"/>
+
+        <updated>2020-07-24T01:58:26-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tiagomiarelli.com.br/media/posts/126/linktrack.webp" alt="linktrackr" />
+                    O que é o Linktrackr?Afiliados de sucesso na internet sempre preferem um serviço confiável de cloaking de links para que suas campanhas&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tiagomiarelli.com.br/media/posts/126/linktrack.webp" alt="linktrackr" />
+                <h2>O que é o Linktrackr?</h2>
+<p>Afiliados de sucesso na internet sempre preferem um serviço confiável de <strong>cloaking de links</strong> para que suas campanhas on-line sigam sem problemas. Isso mostra por que o <strong>LinkTrackr</strong> é um produto tão necessário. </p>
+<p>Para evitar qualquer confusão, digamos que o LinkTrackr é um produto da Internet muito simples que ajuda a criar, encobrir ou quebrar os links rapidamente e no mesmo local.</p>
+<p>Ele permite que você use seu próprio domínio para ocultar o link. Com esse recurso, o nome do link parece mais bom e profissional. Muitos outros novos domínios também podem ser adicionados para usar outro URL para marcas diferentes. Além disso, você também pode usar três nomes de domínio padrão já iniciados no LinkTrackr.</p>
+<p><strong>Ocultando o URL</strong> : Um dos principais recursos do LinkTrackr é sua capacidade de ocultar links. Essa função pode manter intacta a privacidade do link principal, para que as pessoas nunca vejam o link principal.</p>
+<p>uma característica do LinkTrackr, que é muito útil para blogueiros é a possibilidade de converter palavras-chave em links afiliados.</p>
+<p><strong>Configuração organizada</strong> : O LinkTrackr possui uma interface muito elegante, que facilita o uso. É completamente um produto on-line e não precisa ser instalado no site ou página, fazendo com que você não se preocupe com problemas técnicos.</p>
+<p><strong>Exibições de clique instantâneas</strong> : o LinkTrackr possui uma exibição de rastreamento em tempo real, o que significa que exibe instantaneamente as estatísticas do painel sem atrasos. Isso ajuda você a exibir suas campanhas de marketing e desempenho de anúncios. Com isso, você também pode gerenciar o número de ocorrências por um período específico de tempo. Isso ajuda a criar estratégias para seus negócios .</p>
+<p><strong>Cloaking Links com ferramenta viral</strong> : O LinkTrackr também vem com mais um recurso chamado <strong>cloaking the viral task</strong>. Há uma opção de optar pelo compartilhamento de sites sociais. Você pode habilitá-lo na parte inferior ou superior como desejar. Ajuda na criação de mais tráfego a partir de sites de redes sociais. Este é realmente um recurso poderoso através do qual você pode gerar mais comissão</p>
+<p><strong>Otimização de link</strong> : sempre que você cria um link no <strong>LinkTrackr</strong>, é necessário preencher uma opção de meta-informação. Em que geralmente as palavras-chave são inseridas e, às vezes, o URL da imagem, mas com o <strong>LinkTrackr</strong>, você pode gerar automaticamente estes dados e preenchê-los para cada seção.</p>
+<p>Depois de usar outros produtos de cloaking de links, você certamente encontrará o <strong>LinkTrackr</strong> melhor do que os plugins de wordpress.</p>
+<p>Quem não deseja usar domínios personalizados hoje? Porém, com os plugins, você provavelmente usará apenas o URL do domínio principal, enquanto o <strong>LinkTrackr</strong> oferece total liberdade. Nesse caso, os plugins podem ser bons para trabalhos pequenos, mas caso você pretenda expandir seus negócios, não será aconselhável usar plugins. Porque quando você está realmente fazendo marketing, precisa decidir qual método pode atrair todo tipo de pessoas. E é claro que o <strong>LinkTrackr</strong> foi projetado para isso.</p>
+<p>O <strong>LinkTrackr</strong> tem muitos planos, desde o custo gratuito. O plano gratuito vem com dez ofertas de criação de links de rastreamento usando o URL padrão. Mas se você achar necessário obter seu próprio URL personalizado, precisará atualizar para qualquer um dos planos pagos. Os recursos continuam melhorando à medida que você avança. Você pode atualizar ou rebaixar seus planos a qualquer momento, conforme sua necessidade. </p>
+<div class="page-header">
+<h3><span id="Frequently_Asked_Questions" class="ez-toc-section"></span>Perguntas frequentes sobre o linktrackr</h3>
+<dl class="faq">
+<dt><strong>Qual é a diferença entre o LinkTrackr e o Google Analytics?</strong></dt>
+<dd>Simplificando, o Google Analytics rastreia o que acontece no <em>seu próprio</em> site, enquanto o LinkTrackr rastreia o que acontece em sites de <em>terceiros</em> e mídias sociais. Isso inclui o rastreamento de vendas de afiliados em redes de afiliados, cliques em banners de sites em que você anuncia, e-mails individuais que você comprou, anúncios no Facebook e muito mais. Além disso, o LinkTrackr também funciona perfeitamente com o Google Analytics, permitindo que você transmita esses dados para sua conta do Analytics.</dd>
+<dd></dd>
+<dt><strong>Por que existe um limite de cliques?</strong></dt>
+<dt></dt>
+<dd>Como o LinkTrackr é um <strong>SAAS (software como serviço)</strong> hospedado , você compartilha certos recursos, como servidores e largura de banda, com outros usuários. O limite de cliques está em vigor para evitar abusos. O limite para cada conta está muito além da quantidade razoável de cliques que você pode receber em um mês para a quantidade total de links em sua conta.</dd>
+<dd></dd>
+<dt><strong>O que acontece quando excede meu limite de cliques?</strong></dt>
+<dt></dt>
+<dd>Você receberá alguns e-mails de alerta quando o uso de cliques estiver próximo do limite. Você pode comprar "cliques ad-hoc" em lotes de 1.000 a 100.000 cliques ou atualizar sua conta. Os cliques ad-hoc expiram após 15 dias.</dd>
+<dd></dd>
+<dt><strong>Posso atualizar ou fazer o downgrade dos meus planos posteriormente?</strong></dt>
+<dt></dt>
+<dd>Sim, claro. A qualquer momento, você pode atualizar ou fazer o downgrade de seus planos com facilidade para atender às suas necessidades. Também é fácil cancelar sua conta e cobrança.</dd>
+<dd></dd>
+<dt><strong>Posso usar o LinkTrackr com redes de tráfego em massa / navegação automática / troca de tráfego?</strong></dt>
+<dt></dt>
+<dd>Não permitimos navegação automática, sites pagos a clique, sites de tráfego atacadista, sites de troca de banners, redes de troca de tráfego, sites de tráfego em massa (como Adf.ly) e outros programas, pois eles fornecem apenas tráfego indesejado que não beneficia qualquer um. A maioria dos sites de publicidade em massa é banida e os novos, de tempos em tempos.</dd>
+<dd></dd>
+<dt><strong>O que posso usar como nome da minha conta?</strong></dt>
+<dd>Evite usar nomes de marcas, marcas comerciais (a menos que você seja o proprietário) ou qualquer nome que induza intencionalmente o usuário a pensar que faz parte do LinkTrackr.com. Recomendamos usar seu próprio nome ou o nome da sua empresa.</dd>
+<dd></dd>
+<dt><strong>Que tipos de pagamentos você aceita?</strong></dt>
+<dd>Atualmente, só aceitamos pagamentos via PayPal. Se você não possui uma conta no PayPal, também pode efetuar um pagamento direto com cartão de crédito usando o sistema de pagamento do PayPal. A opção de cartão de crédito direto deve estar logo abaixo do formulário de login do PayPal.</dd>
+<dd></dd>
+<dt><strong>Tenho que instalar o LinkTrackr no meu site?</strong></dt>
+<dd>Não, você não. O LinkTrackr é um aplicativo de software baseado na Web que você pode usar imediatamente. Você não precisa instalar nenhum script ou lidar com atualizações de software.</dd>
+<dd></dd>
+<dt><strong>Posso usar meu próprio nome de domínio?</strong></dt>
+<dd>Você pode usar seus próprios nomes de domínio com todos os planos que suportam domínios "de marca". Usamos CNAME para o nosso mapeamento de domínio. Isso significa que você pode usar o domínio de nível superior (domínio.com) ou um subdomínio (sub.domínio.com). Fornecemos instruções sobre como usar o CNAME para todos os registradores populares.</dd>
+<dd></dd>
+</dl>
+<h2><span id="Conclusion_Latest_LinkTrackr_Review_July_2020_Best_Affiliate_Link_Cloaker" class="ez-toc-section"></span><strong>Conclusão:</strong></h2>
+<p>Para ser um afiliado de performance de sucesso, você precisa estar atento aos métodos de marketing de afiliados profissionais, é preciso garantir que método está funcionando ou não. A melhor e mais precisa maneira de fazer isso é acompanhar o desempenho dos seus links. O LinkTrackr pode ser confiável para esta tarefa, um produto muito eficiente para o marketing de afiliados , não apenas fácil em termos de uso, mas também um impulsionador para campanhas publicitárias. No entanto, a avaliação gratuita também está disponível, mas recomendamos o plano básico de 9 doláres por mês</p>
+<p>Isso pode ser atualizado à medida que você cria mais links. Temos certeza de que, com o <strong>LinkTrackr,</strong> você obterá os resultados desejados.</p>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Afiliados de Performance no Brasil</title>
+        <author>
+            <name>Tiago Miarelli</name>
+        </author>
+        <link href="https://tiagomiarelli.com.br/afiliados-de-performance-no-brasil/"/>
+        <id>https://tiagomiarelli.com.br/afiliados-de-performance-no-brasil/</id>
+            <category term="Afiliados de performance"/>
+
+        <updated>2020-07-24T01:58:26-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tiagomiarelli.com.br/media/posts/116/marketing-de-afiliados-de-performance-no-Brasil.webp" alt="marketing de afiliados de performance" />
+                     { "@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{ "@type": "Question", "name": "✅️ O que é Marketing de Afiliados?", "acceptedAnswer": {&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tiagomiarelli.com.br/media/posts/116/marketing-de-afiliados-de-performance-no-Brasil.webp" alt="marketing de afiliados de performance" />
+                <p> </p>
+<div class="post__toc">
+<h3>Resumo</h3>
+<ul>
+<li><a href="#mcetoc_1edphmjo25m">O que é Marketing de Performance?</a></li>
+<li><a href="#mcetoc_1edphmjo25n">O que é mídia de performance?</a></li>
+<li><a href="#mcetoc_1edphmjo25o">Tipos de mídias de performance</a></li>
+<li><a href="#mcetoc_1edphmjo25p">O que é Marketing de Afiliados?</a></li>
+<li><a href="#mcetoc_1edpjajnnee">Marketing de afiliados é o mesmo que marketing de desempenho?</a></li>
+<li><a href="#mcetoc_1edppom9c3qm">Verticais do Marketing de Afiliados</a>
+<ul>
+<li><a href="#mcetoc_1edppom9c3qn">Vertical de Infoprodutos</a></li>
+<li><a href="#mcetoc_1edppom9c3qo">Vertical de Performance</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1edppom9d3qp">O que é um programa de afiliados?</a></li>
+<li><a href="#mcetoc_1edppom9d3qq">O que é uma rede de Afiliados?</a>
+<ul>
+<li><a href="#mcetoc_1edppom9d3qr">O que é uma subrede de afiliados?</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1edppom9d3qs">O que é Marketing de Referência?</a></li>
+<li><a href="#mcetoc_1edppom9d3qu">O que é White Label?</a></li>
+<li><a href="#mcetoc_1edppom9d3qv">Ecossistema Afiliado</a></li>
+<li><a href="#mcetoc_1edppom9d3r0">Tipos de Afiliados de Performance</a></li>
+<li><a href="#mcetoc_1edppr42d3r6">Cenário Atual</a></li>
+<li><a href="#mcetoc_1edppr42d3r7">História do Marketing de Afiliados no Brasil</a></li>
+</ul>
+</div>
+<p>Antes de começar a falar sobre <strong>marketing de afiliados no Brasil,</strong> primeiro vamos entender aonde se situa o <strong>marketing de afiliados dentro do marketing digital</strong></p>
+<p>Existem vários tipos de marketing e dentro destes vários tipos de marketing, existe o marketing de performance</p>
+<h2 id="mcetoc_1edphmjo25m">O que é Marketing de Performance?</h2>
+<p>Marketing de performance é um termo abrangente para ações de marketing e publicidade online. <strong>O marketing de performance é o tipo de marketing em que os anunciantes pagam apenas e somente quando ocorre uma ação específica. Essas ações podem incluir um lead gerado, uma venda ou um clique</strong></p>
+<p><strong>É também conhecido como publicidade paga por desempenho , é uma forma de publicidade na qual o anunciante paga apenas quando há resultados mensuráveis</strong>. </p>
+<p>Exemplo prático:</p>
+<p>quando você faz um anúncio na tv, no rádio, panfletos ou até mesmo um outdoor na rua por exemplo, você não consegue saber quantas vendas vieram destes anúncios, no marketing de performance você consegue saber claramente quanto você investiu, quanto teve de vendas e consequentemente quanto teve de lucro após o anúncio. A maneira mais comum e usada para medir esse retorno em vendas e lucro sobre o que você investiu em anúncios é através da publicidade digital onde o <strong>ROI</strong> é uma das métricas mais importante</p>
+<p>O foco das ações de <strong>marketing de performance</strong> é a utilização <strong>de mídias específicas para obter um retorno de cada ação (anúncio)</strong>. Cada tipo de mídia digital oferece resultados de acordo com o que você espera, exemplo: uma venda, um formulário preenchido, um clique em um anúncio, visualizações de um banner, etc. </p>
+<p>Na publicidade online, nós usamos os <strong>canais de mídia </strong>ou também chamados de<strong> Mídias de performance</strong></p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116//Ecossistema-do-Marketing-de-Afiliados-no-Brasil-04.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<h2 id="mcetoc_1edphmjo25n">O que é mídia de performance?</h2>
+<p><strong>Mídia de performance consiste num tipo de propaganda que não é paga com um valor pré-determinado</strong>, mas sim variável, que depende da performance do anúncio, ou seja, <strong>você paga somente quando tem um resultado </strong>que pode ser um lead, uma venda, um clique, etc</p>
+<h2 id="mcetoc_1edphmjo25o">Tipos de mídias de performance</h2>
+<p>os tipos mais conhecidos e mais usados de mídias de performance no são:</p>
+<ul>
+<li>Google ads</li>
+<li>Facebook ads</li>
+<li>Instagram Ads</li>
+<li>Linkedin Ads</li>
+<li>Native Ads</li>
+</ul>
+<p>entre todas estas mídias ou canais de performance, está o <strong>Marketing de afiliados</strong></p>
+<blockquote>
+<p>O marketing de afiliados é um canal do marketing de performance que faz parte do marketing digital</p>
+</blockquote>
+<p>No Brasil, o marketing de afiliados foi e é interpretado apenas como "infoprodutos", "produtos digitais", "venda de cursos", "hotmart", "marketing digital", entre outros</p>
+<p>mas vamos ver isso mais lá na frente neste artigo e também em outros artigos posteriores. Por enquanto vamos continuar desvendando os conceitos para entender melhor a estrutura do marketing de afiliados. </p>
+<p>Continuando..</p>
+<h2 id="mcetoc_1edphmjo25p">O que é Marketing de Afiliados?</h2>
+<p>O marketing de afiliados é o processo pelo qual um afiliado recebe uma comissão de um anunciante pela venda de um produto ou serviço ou quando capta um lead por exemplo. O afiliado simplesmente procura um produto de que gosta, depois o promove e obtém uma parte do lucro de cada venda que realiza. As vendas são rastreadas através de <strong>links afiliados</strong></p>
+<p>Em outras palavras:</p>
+<p>O marketing de afiliados é quando o afiliado gera uma venda ou uma ação que traz o retorno que o anunciante deseja e para isso ela paga uma comissão a esse afiliado, tudo isso é rastreado atráves de links e <strong>cookies</strong> e que veremos em outros artigos mais a frente por aqui no blog sobre<strong> link tracking</strong></p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-05.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<h2 id="mcetoc_1edpjajnnee">Marketing de afiliados é o mesmo que marketing de performance?</h2>
+<p>Tecnicamente não!</p>
+<p><strong>O marketing de afiliados é um canal do marketing de performance. O marketing de desempenho pode ter vários canais e entre eles está o marketing de afiliado</strong></p>
+<p>O Marketing de performance é uma estratégia que os anunciantes tem para obter exposição adicional da marca e do seu produto sem custo adicional pois os afiliados divulgam estes produtos e serviços do anunciante gratuitamente e só recebem uma comissão quando uma ação é realmente concretizada além claro do benefício adicional de engajamento do consumidor, taxas de conversão mais altas, ticket médios de pedidos mais altos e recomendações de terceiros</p>
+<p>nosso foco aqui é falar sobre marketing de afiliados no Brasil, em outros artigos iremos aprofundar mais o assunto sobre <strong>marketing de afiliados de performance</strong>, </p>
+<p>continuando...</p>
+<p>você já viu até aqui que existem vários tipos de marketing, dentre eles esta o marketing de performance que é aquele aonde quem anuncia consegue saber quanto gastou, quanto teve de vendas e quanto teve de lucro e dentre os vários tipos de marketing de performance (canais de mídia), existe o marketing de afiliados</p>
+<p>pois bem..</p>
+<h2 id="mcetoc_1edppom9c3qm">Verticais do Marketing de Afiliados</h2>
+<p> </p>
+<p>dentro do marketing de afiliados, existem 3 subdivisões: Os infoprodutos, as redes de afiliados e os programas de afiliados</p>
+<h3 id="mcetoc_1edppom9c3qn">Vertical de Infoprodutos</h3>
+<p>sendo os infoprodutos, a vertical mais conhecida e mais difundida no Brasil e vamos ver mais abaixo por que isso aconteceu</p>
+<p>neste slide (que você pode baixar no final do artigo) você consegue visualizar essa subdivisão</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-06.webp" alt="" width="2667" height="1500"></figure>
+<p>Na verdade o marketing de afiliados tem 2 verticais compostas por: <strong>programas de afiliados</strong> que podem ser <strong>próprios ou tercerizados para redes de afiliados</strong> e os <strong>infoprodutos</strong> que podem ser <strong>produtos digitais ou produtos físicos</strong> como cápsulas de emagrecimento por exemplo</p>
+<p>repare que no Brasil há uma confusão que atrela produtos físicos sendo como somente cápsulas e demais produtos diretamente ligado ás 3 principais plataformas de infoprodutos no Brasil, sendo Hotmart, Eduzz e Monetizze</p>
+<blockquote>
+<p>Cabe aqui uma observação interessante que é o fato de que no Brasil quando se diz "produtos físicos" soa como sendo apenas produtos para emagrecimento, aumento peniano, etc, o chamado "nicho black". Produtos físicos podem ser geladeiras, microondas, lavadoras, etc mais isso não foi difundido assim no Brasil e é o termos mais correto usando no mundo</p>
+</blockquote>
+<p>Verticais do mercado de afiliados</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/VERTICAIS-DO-MARKETING-DE-PERFORMANCE.webp" alt="" width="1374" height="774"></figure>
+<p>Conforme você pode ver, o marketing de afiliados no Brasil foi evangelizado e interpretado como e somente sendo como infoprodutos e produtos físicos de forma equívocada no entender popular</p>
+<p>umas das grandes razões por que isto aconteceu foi o fato do sucesso de  divulgação  da fórmula de lançamento que o <a href="https://www.ericorocha.com.br/" target="_blank" rel="nofollow noopener noreferrer">Érico rocha</a> trouxe para o Brasil e sobre como ele ensinou o que é marketing digital e também por causa da <a href="https://www.hotmart.com/pt-BR" target="_blank" rel="nofollow noopener noreferrer">Hotmart</a>  que investe pesado em progaganda sobre marketing de afiliados como sendo somente infoprodutos já que que é justamente o seu produto e em seguida disso vieram plataformas como Eduzz e Monetizze com produtos físicos que basicamente eram cápsulas aumentando o buzz no mercado conforme ele ia crescendo</p>
+<p>por outro lado, enquanto o marketing digital se popularizava no Brasil através do Érico rocha, a hotmart e demais plataformas investiam pesado em marketing para atrair novos afiliados que buscavam uma renda extra e/ou que queriam ter um negócio online</p>
+<p>isso não foi e praticamente não é feito na mesma proporção pelas redes de afiliados de performance que trabalham com grandes marcas que todos conhecem na internet</p>
+<p> </p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-07.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<p>Bem, além da <strong>vertical de infoprodutos</strong> dentro do <strong>marketing de afiliados</strong>, nós temos a outra vertical, que é a <strong>vertical de performance</strong></p>
+<h3 id="mcetoc_1edppom9c3qo">Vertical de Performance</h3>
+<p>Essa vertical é basicamente composta por <strong><a href="#non-existing-post-with-id-108">programas de afiliados</a></strong> que podem ser <strong>programas de afiliados próprios ou tercerizados</strong>. Os programas de afiliados tercerizados são administrados pelas <strong><a href="https://tiagomiarelli.com.br/o-que-e-como-funciona-rede-de-afiliados/">redes de afiliados</a></strong></p>
+<p>além disso, dentro dessa vertical de performance, temos o <strong><a href="https://tiagomiarelli.com.br/o-que-e-marketing-de-referencia/">marketing de referência</a></strong> e o chamado <strong>white label</strong></p>
+<p>Lembrando que o marketing de referência é outro tipo de marketing mas incluimos aqui por que justamente é muito confundido com o marketing de afiliados e iremos falar mais sobre isso logo abaixo</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-09.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<h2 id="mcetoc_1edppom9d3qp">O que é um programa de afiliados?</h2>
+<p>A maioria das pessoas associa marketing de afiliados com programas de afiliados</p>
+<p>e como você já sabe, o que é chamado de "programa afiliado" ou "programa associado" é um relacionamento em que um anunciante (marca, empresa, ou produtor de infoprodutos) paga a você (o "afiliado") para que você divulgue links no seu site ou redes sociais que apontem para o site dele. Sendo assim, toda vez que é concretizada uma venda através do seu link afiliado que contém um código único, o anunciante consegue saber que a venda foi feita através de você, então, você ganha uma comissão por isso</p>
+<h2 id="mcetoc_1edppom9d3qq">O que é uma rede de Afiliados?</h2>
+<p>Você já entendeu o que é um programa de afiliados, agora vamos ver o que é e como funciona uma rede de afiliados</p>
+<p>os programas de afiliados podem ser administrados de 2 formas que são os <strong>programas próprios ou tercerizados</strong></p>
+<p>Programa de afiliados próprio é aquele onde a própria empresa administra seu programa de afiliados, por exemplo: Amazon e B2W (Americanas, Submarino e Ponto frio)</p>
+<p>elas tem sua própria equipe, tecnologia, escritório e sua própria base de afiliados</p>
+<p>há anunciantes que tem programas próprios e ainda tercerizam para as redes de afiliados a fim de alcançar mais afiliados e há anunciantes que não tem seu próprio programa de afiliados e pra isso contratam uma rede de afiliados (tercerizadas)</p>
+<p><strong>Uma rede de afiliados é uma empresa que tem sua própria base de afiliados e que ganha uma comissão para intermediar os negócios entre os anunciantes que querem vender e os afiliados que querem divulgar</strong></p>
+<p>nos próximos artigos aqui no blog iremos falar um pouco mais sobre redes e plataformas de afiliados tanto próprias quanto tercerizadas</p>
+<h3 id="mcetoc_1edppom9d3qr">O que é uma subrede de afiliados?</h3>
+<p>uma subrede de afiliados é uma rede de afiliados que administra tanto programas de afiliados de anunciantes igual uma rede de afiliados mesmo,  quanto programas de afiliados de outras redes de afiliados</p>
+<p>repare:</p>
+<p>uma <strong><a href="#non-existing-post-with-id-110">subrede de afiliados</a></strong> também pode administrar programas de afiliados de anunciantes que não estão nas grandes redes de afiliados, a diferença principal entre um afiliado comum e uma subrede é que uma subrede tem sua própria base de afiliados, seria uma espécie digamos assim de afiliado de grandes redes com seus próprios afiliados</p>
+<p>uma subrede seria um tipo de afiliado de grandes redes uma vez que a comissão que ela ganha, é igual ao que outro afiliado ganharia, ela divide uma porcentagem dessa comissão com sua própria base de afiliados</p>
+<p>além do conceito de subrede, há também a cooperação entre redes de afiliados</p>
+<p>aonde uma rede pode rodar campanhas de outra rede em troca da divisão de comissão que o anunciante paga</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-08.webp" alt="" width="2667" height="1500"></figure>
+<p>em termos práticos seria assim o funcionamento de redes, subredes e parcerias entre redes</p>
+<p>digamos que o anunciante contrata uma grande rede de afiliados e paga pra ela R$ 100,00 para cada venda que ela trouxer</p>
+<p>essa rede por sua vez decide pagar R$ 70,00 por cada venda que o afiliado trouxer e fica com R$ 30,00 apenas como lucro nessa intermediação</p>
+<p>uma subrede decide rodar essa campanha também, então ela se afilia a esta grande rede assim como qualquer afiliado faria</p>
+<p>como essa subrede tem sua própria base de afiliados, sabendo que ela ganha R$ 70,00 por cada venda, ela decide pagar então R$ 35,00 para cada afiliado que trouxer uma venda, ficando com R$ 35,00 de lucro</p>
+<p>já na parceria entre redes, seria assim</p>
+<p>a rede que inicialmente fechou contrato com o anunciante, decide chamar outra rede de afiliado que também tem uma grande base de afiliados</p>
+<p>sabendo que o acordo é de R$ 100,00 por venda que o anunciante vai pagar, estas 2 redes decidem dividir a comissão paga pelo anunciante em 50% para cada uma</p>
+<p>sendo assim, estas 2 redes "rodam" o mesmo anunciante com R$ 50,00 pra cada uma e cada uma paga o quanto achar que deve para sua respectiva base de afiliados, seja que tipo de afiliado for inclusive para subredes</p>
+<p>lembrando que afiliados que geram muitas vendas geralmente tem comissão maior que outros afiliados pequenos que trazem poucas vendas, mas isso veremos em outros artigos.</p>
+<h2 id="mcetoc_1edppom9d3qs">O que é Marketing de Referência?</h2>
+<p>Marketing de referência é uma forma de marketing para promover produtos ou serviços para novos clientes através de referências, geralmente, boca a boca. Tais referências, muitas vezes, acontecem espontaneamente pelos próprios clientes  e/ou usuários da empresa. Para cada indicação que este usuário faz do produto ou serviço que ele usa, ele ganha uma comissão ou alguma forma de bonificação da empresa indicada</p>
+<p>nos artigos seguintes aqui no blog iremos falar mais sobre <a href="https://tiagomiarelli.com.br/o-que-e-marketing-de-referencia/">marketing de referência</a> e marketing de afiliados e também sobre marketing de influenciadores mas basicamente a diferença entre eles é</p>
+<p><strong>marketing de afiliados: </strong>sites indicam novos usuários/clientes (trazem vendas, leads, cliques, download de aplicativos, etc)</p>
+<p><strong>marketing de referência: </strong>pessoas que compraram indicam novos usuários/clientes em troca de uma comissão ou alguma forma de bonificação</p>
+<p>e <strong>marketing de influenciadores:</strong> influenciadores divulgam a marca para atrair novos usuários/clientes, geralmente vendas</p>
+<p>é bom que você leitor do blog e que nos acompanha nas redes sociais saiba estes conceitos para entender melhor todo ecossistema de afiliados e suas vertentes</p>
+<p> </p>
+<h2 id="mcetoc_1edppom9d3qu" class="entry-title">O que é White Label?</h2>
+<p>O White Label é um modelo de negócio em que um produto ou serviço desenvolvido por determinada empresa pode ser revendido por outras empresas ou pessoas físicas sem divulgação dos direitos autorais, ou seja, como se o produto fosse da marca que o revende. já viu aqueles produtos dentro de supermercados em que a marca do produto é o mesmo nome do supermercado? isso é <strong>white labeling</strong></p>
+<p>Alguns sites afiliados usam esse modelo para permitir que outro site possa oferecer um serviço ou produtos sem ter que investir na criação da tecnologia ou equipe extra para administrar isso. Você já percebeu que alguns sites de notícias como o R7 oferece cupons de desconto? pois bem, isso é o que chamamos de site de white label, uma empresa cuida de tudo sobre os cupons usando o site R7. é como um site dentro de outro site, uma espécie de subdiretório. os sites afiliados geralmente fazem este tipo de acordo pois é uma forma de monetização para outros tipos de sites cuja receita não seja somente links afiliados. Site de notícias e sites nichados são os tipos principais de sites que fazem white label com sites afiliados</p>
+<p>existem outros modelos como por exemplo o programa de afiliados da Magazine luiza (parceiro magalu) aonde você cria uma loja com seu nome dentro do site do magazine luiza, isso também é uma forma de white label</p>
+<h2 id="mcetoc_1edppom9d3qv">Ecossistema Afiliado</h2>
+<p>Resumidamente, o ecossistema de marketing de afiliados é representado dessa forma:</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-10.webp" alt="" width="2667" height="1500"></figure>
+<p>como nosso foco aqui é marketing de afiliados de performance e não de infoprodutos, vamos continuar aprofundando mais um pouco sobre esta vertical no Brasil</p>
+<h2 id="mcetoc_1edppom9d3r0">Tipos de Afiliados de Performance</h2>
+<p>No gráfico abaixo você pode ver os tipos de afiliados que existem no Brasil</p>
+<p>basicamente eles se dividem em 2 categorias: Redes sociais e Sites afiliados</p>
+<p>Os Afiliados de redes sociais podem ser: micro influenciadores e afiliados de redes sociais diversas, geralmente mais concentrados em grupos de facebook</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/Ecossistema-do-Marketing-de-Afiliados-no-Brasil-11.webp" alt="" width="2667" height="1500"></figure>
+<p>Os micro influenciadores se concentram basicamente no instagram e no youtube</p>
+<p>enquanto que os outros tipos de afiliados se concentram mais em grupos de facebook, grupos de whatsapp e canais no telegram</p>
+<p>tanto uma categoria quanto a outra basicamente tracionam novos usuários para os anunciantes de forma orgânica</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-12.webp" alt="" width="2667" height="1500"></figure>
+<p>na outra categoria, de sites afiliados, temos vários tipos de sites afiliados, conforme você pode ver na figura abaixo</p>
+<p>O tráfego de usuários destes sites basicamente são através de SEO </p>
+<p>nos próximos artigos iremos falar sobre cada tipo de site e de todo ecossistema de tipos de afiliados que incluem tanto pessoas físicas, subredes e pessoas jurídicas (empresas)</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-13.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<p>Estes tipos de sites afiliados, ainda podem ser divididos em sites do tipo "geralzão" ou nichados</p>
+<p>o tipo mais comum no Brasil é o site geralzão que concentra ofertas, promoções e descontos de vários produtos de diversas lojas</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-14.webp" alt="" width="2667" height="1500"></figure>
+<p>na imagem abaixo você pode ver uma linha do tempo aonde conforme o conhecimento dos usuários que compram na internet ia crescendo, mais novos tipos de sites afiliados iam surgindo, enquanto que os afiliados de redes sociais permanceram estagnados já que trabalham somente com redes sociais</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-21.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<p>Outro ponto interessante que aconteceu no Brasil atualmente é a consolidação de 3 anunciantes players no mercado de varejo brasileiro</p>
+<p>desde 2019, o Brasil teve uma onda crescente da consolidação e crescimento de marketplaces no Brasil e também pelo fato do chamado efeito Amazon, que acirrou uma briga de mercado entre Magazine luiza e B2W com a Amazon</p>
+<p>o que favoreceu em muito os afiliados já que as ofertas de frete grátis tem atraído cada vez mais novos usuários da região norte e nordeste do Brasil</p>
+<h2 id="mcetoc_1edppr42d3r6">Cenário Atual</h2>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-22.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<p>bem, até aqui você aprendeu um pouco sobre o marketing de afiliados de performance</p>
+<p>e aprendeu que marketing de afiliados não é somente infoprodutos </p>
+<p>repare na imagem abaixo de uma busca no google que pelo fato de que foi evangelizado e propagado massivamente no Brasil que marketing de afiliados seria somente infoprodutos, muitas pessoas perderam a oportunidade de trabalhar com as grandes marcas que todos conhecem e compram na internet todos os dias assim como é nos mercados mais maduros como Estados unidos e Europa</p>
+<p>bem, vamos analisar um pouco mais sobre isso</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-18.webp" alt="" width="2667" height="1500"></figure>
+<h2 id="mcetoc_1edppr42d3r7">História do Marketing de Afiliados no Brasil</h2>
+<p>O Érico rocha foi a pessoa que praticamente ensinou o Brasil sobre o que é marketing digital</p>
+<p>ele mostrou que qualquer pessoa que tivesse um conhecimento, poderia gravar um curso online e vender isso para outras pessoas que tivessem interesse naquele assunto</p>
+<p>ele mostrou ás pessoas as técnicas, ferramentas e o mindset que elas deveriam ter para executar uma campanha publicitária, conhecimento que até então estava restrito aos profissionais de publicidade e propaganda dentro das agências de marketing</p>
+<p>com isso, também nasceu a Hotmart, uma plataforma que administraria a venda destes cursos, eles não são ligados mas se beneficiaram no mercado cada um com seu produto</p>
+<p>ou seja, de certa forma, o Érico rocha te ensinava como você fazia e a hotmart era a plataforma para fazer isso acontecer</p>
+<p>e então começou uma onda de popularização do marketing digital no Brasil </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-16.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<p>com isso, as pessoas começaram a produzir cursos e mais cursos aonde elas ensinavam que trabalhar como marketing digital era a forma mais rápida de enriquecer e ter liberdade e independência financeira, afinal, quem não quer ser rico trabalhando de casa somente com um computador e internet né?</p>
+<p>e é o que acontece até hoje como você pode ver</p>
+<p>o mercado de infoprodutos ficou tão saturado que hoje as pessoas associam marketing digital com infoprodutos ou "cursos online" com o nome da hotmart </p>
+<p>e assim, Hotmart, eduzz, monetizze cada vez ganhavam mais e mais tanto produtores quanto afiliados que produziam e vendiam cursos online de marketing digital</p>
+<p>isso é um exemplo para você ter uma idéia de como foi propagado e evangelizado isso massivamente</p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-17.webp" alt="" width="2667" height="1500"></figure>
+<p>Com o marketing digital cada vez mais popularizado pelo Érico rocha e com o marketing evangelizador da Hotmart e demais plataformas de infoprodutos, nasceu o Afiliados Brasil</p>
+<p>um evento aonde os produtores, afiliados e redes de afiliados pudessem se encontrar anualmente</p>
+<p>mas quem já foi no afiliados brasil sabe que no evento as grandes estrelas são as plataformas de infoprodutos e produtos físicos, mais do que as redes de afiliados</p>
+<p>e por que isso aconteceu?</p>
+<p>por que simplesmente as redes de afiliados de performance não fazem e nunca fizeram um marketing igual as plataformas de infoprodutos fazem até hoje</p>
+<p> </p>
+<figure class="post__image"><img loading="lazy"  src="https://tiagomiarelli.com.br/media/posts/116/_Marketing_de_Afiliados_no_Brasil-19.webp" alt="" width="2667" height="1500"></figure>
+<p> </p>
+<p>isso gerou um fato peculiar no Brasil</p>
+<p>as plataformas de infoprodutos tem e tiveram uma base enorme de afiliados enquanto que as redes de afiliados de performance sofrem até hoje com falta de bons afiliados</p>
+<p>os afiliados que não sabiam construir sites, foram para as redes sociais  e os afiliados que sabiam construir sites, se tornaram os grandes sites que conhecemos hoje</p>
+<p>felizmente o mercado brasileiro ainda é muito recente no que diz respeito ao marketing de afiliados de performance e neste blog você vai aprender a desvendar tudo sobre ele e como você pode se tornar um afiliado de sucesso</p>
+<p>Recomendo que você nos acompanhe nas redes sociais, assista os videos, ouça nosso podcast e baixe nossos materiais para aprender mais sobre isso e logicamente que construa seu site afiliado de sucesso</p>
+<p> </p>
+<p>Slides das imagens deste artigo:</p>
+<p><div class="post__iframe"><iframe loading="lazy" width="595" height="485" style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/A9R1UybTmvcEzL" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe></div></p>
+<div style="margin-bottom: 5px;"><strong> <a href="//www.slideshare.net/TiagoMiarelli1/ecossistema-do-marketing-de-afiliados-no-brasil" title="Ecossistema do marketing de afiliados no brasil" target="_blank" rel="noopener">Ecossistema do marketing de afiliados no brasil</a> </strong> de <strong><a href="https://www.slideshare.net/TiagoMiarelli1" target="_blank" rel="noopener">Tiago Miarelli</a></strong></div>
+<p> </p>
+<p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "✅️ O que é Marketing de Afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "O marketing de afiliados é o processo pelo qual um afiliado recebe uma comissão pela venda de um produto ou serviço ou quando capta um lead por exemplo. O afiliado simplesmente procura um produto de que gosta, depois o promove e obtém uma parte do lucro de cada venda que realiza. As vendas são rastreadas através de links afiliados"
+    }
+  },{
+    "@type": "Question",
+    "name": "✅️ O que é um programa de afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "como você já sabe, o que é chamado de \"programa afiliado\" ou \"programa associado\" é um relacionamento em que um anunciante (marca, empresa, ou produtor de infoprodutos) paga a você (o \"afiliado\") para que você divulgue links no seu site ou redes sociai que apontem para o site dele. Sendo assim, toda vez que é feita uma venda através do seu link afiliado que contém um código único e que o anunciante consegue saber que a venda foi feita através de você, então, você ganha uma comissão por isso"
+    }
+  },{
+    "@type": "Question",
+    "name": "✅️ O que é uma rede de Afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Uma rede de afiliados é uma empresa que tem sua própria base de afiliados e que ganha uma comissão para intermediar os negócios entre os anunciantes que querem vender e os afiliados que querem divulgar"
+    }
+  },{
+    "@type": "Question",
+    "name": "✅️ O que é uma sub redes de afiliados?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "uma sub rede de afiliados é uma rede de afiliados que administra tanto programas de afiliados de outros anunciantes quanto programas de afiliados de outras redes de afiliados"
+    }
+  }]
+}
+</script>
+</p>
             ]]>
         </content>
     </entry>
